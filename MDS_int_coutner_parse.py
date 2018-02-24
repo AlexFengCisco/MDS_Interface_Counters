@@ -126,7 +126,7 @@ for i in interface_fc_info:
     slot=i[0]  #has to -1 ;-(
     interface_id=i[1]
     tx_bb_zero=i[35]
-    i[35]=int(i[35])
+    i[35]=int(i[35]) #convert string to integer
     print "interface fc "+slot+"/"+interface_id+"   tx bb_credit_zero  "+tx_bb_zero
     
 
