@@ -129,3 +129,17 @@ for i in interface_fc_info:
     print "interface fc "+slot+"/"+interface_id+"   tx bb_credit_zero  "+tx_bb_zero
     
 
+#  order by tx_bb_zero
+
+print "=================print interface info order by tx bb credit zero==================="
+
+def getKey(item):
+    return item[35]
+interface_fc_info_order_bb_zero=sorted(interface_fc_info, key=getKey)
+
+for i in interface_fc_info_order_bb_zero:
+    slot=i[0]  #has to -1 ;-(
+    interface_id=i[1]
+    tx_bb_zero=i[35]
+    print "interface fc "+slot+"/"+interface_id+"   tx bb_credit_zero  "+tx_bb_zero
+
