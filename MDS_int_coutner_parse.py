@@ -129,7 +129,7 @@ for i in interface_fc_info:
     print "interface fc "+slot+"/"+interface_id+"   tx bb_credit_zero  "+tx_bb_zero
     
 
-#  order by tx_bb_zero
+#  example order by tx_bb_zero
 
 print "=================print interface info order by tx bb credit zero==================="
 
