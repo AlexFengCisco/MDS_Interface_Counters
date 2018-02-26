@@ -98,8 +98,8 @@ interface fc counter collection list index define
 ##47:      Percentage Tx credits not available for last 1m: 0%
 ##48:      Percentage Tx credits not available for last 1h: 0%
 ##49:      Percentage Tx credits not available for last 72h: 0%
-50:      receive B2B credit remaining
-52:      transmit B2B credit remaining
+38:      receive B2B credit remaining
+40:      transmit B2B credit remaining
 '''
 import re
 
