@@ -31,8 +31,31 @@ fc1/1
       500 receive B2B credit remaining
       64 transmit B2B credit remaining
     Last clearing of "show interface" counters : never
-    
-    
+## some old line card interface counters as below    
+fc5/11
+    5 minutes input rate 191985848 bits/sec, 23998231 bytes/sec, 11642 frames/sec
+    5 minutes output rate 190598816 bits/sec, 23824852 bytes/sec, 11635 frames/sec
+    245118543753 frames input, 500744079849872 bytes
+      0 class-2 frames, 0 bytes
+      245118543753 class-3 frames, 500744079849872 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors, 0 CRC
+      0 unknown class, 0 too long, 0 too short
+    528152042374 frames output, 1084283773043848 bytes
+      0 class-2 frames, 0 bytes
+      528152042374 class-3 frames, 1084283773043848 bytes
+      0 class-f frames, 0 bytes
+      11 discards, 0 errors
+    2 input OLS, 2 LRR, 1 NOS, 82 loop inits
+    18 output OLS, 12 LRR, 18 NOS, 17 loop inits
+    13 link failures, 43 sync losses, 0 signal losses
+     4407703765 transmit B2B credit transitions from zero
+     4769921 receive B2B credit transitions from zero
+      32 receive B2B credit remaining
+      5 transmit B2B credit remaining
+      5 low priority transmit B2B credit remaining    
+      
+      
 interface fc counter collection list index define
 
 1:       slot_id  
@@ -55,26 +78,26 @@ interface fc counter collection list index define
 20:      x 27649100 bytes
 21:      x discards
 22:      x errors
-23:      x timeout discards
-24:      x credit loss
-25:      x input OLS
-26:      x input LRR
-27:      x input NOS
-28:      x input loop inits
-29:      x output OLS
-30:      x output LRR
-31:      x output NOS
-32:      x output loop inits
-33:      x link failures
-34:      x sync losses
-35:      x signal losses
-36:      x Transmit B2B credit transitions to zero
-38:      x Receive B2B credit transitions to zero
-40:      2.5us TxWait due to lack of transmit credits
-46:      Percentage Tx credits not available for last 1s: 0%
-47:      Percentage Tx credits not available for last 1m: 0%
-48:      Percentage Tx credits not available for last 1h: 0%
-49:      Percentage Tx credits not available for last 72h: 0%
+##23:      x timeout discards
+##24:      x credit loss
+23:      x input OLS
+24:      x input LRR
+25:      x input NOS
+26:      x input loop inits
+27:      x output OLS
+28:      x output LRR
+29:      x output NOS
+30:      x output loop inits
+31:      x link failures
+32:      x sync losses
+33:      x signal losses
+34:      x Transmit B2B credit transitions to zero
+35:      x Receive B2B credit transitions to zero
+##40:      2.5us TxWait due to lack of transmit credits
+##46:      Percentage Tx credits not available for last 1s: 0%
+##47:      Percentage Tx credits not available for last 1m: 0%
+##48:      Percentage Tx credits not available for last 1h: 0%
+##49:      Percentage Tx credits not available for last 72h: 0%
 50:      receive B2B credit remaining
 52:      transmit B2B credit remaining
 '''
@@ -91,12 +114,16 @@ multiStr = fh_str.splitlines(1)
 
 
 #delete the lines contains word class- , to avoid E port and F port's different counters
-p = re.compile(r'class-') 
+p1 = re.compile(r'class-') 
+p2 = re.compile(r'timeout')
+p3 = re.compile(r'TxWait')
+p4 = re.compile(r'Percentage')
+p5 = re.compile(r'low')
 outStr=u""
 
 for singleLine in multiStr: 
-    if p.search(singleLine) == None:
-        outStr += p.sub( '', singleLine,count = 1 )
+    if p1.search(singleLine) == None and p2.search(singleLine)== None and p3.search(singleLine) == None and p4.search(singleLine)== None:
+        outStr += p1.sub( '', singleLine,count = 1 )
 
 
 #collect all the numbers from multi lines without class-
@@ -113,7 +140,7 @@ if_count_index=0
 for i in fn_str:
     if_count_index=if_count_index+1
     interface_fc_counters.append(i)
-    if if_count_index == 53: #each 53 counters form a single interface counters list  and append to the whole interface info list
+    if if_count_index == 41: #each 41 counters form a single interface counters list  and append to the whole interface info list
         interface_fc_info.append(interface_fc_counters)
         if_count_index=0
         interface_fc_counters=[]
@@ -125,8 +152,8 @@ for i in fn_str:
 for i in interface_fc_info:
     slot=i[0]  #has to -1 ;-(
     interface_id=i[1]
-    tx_bb_zero=i[35]
-    i[35]=int(i[35]) #convert string to integer
+    tx_bb_zero=i[33]
+    i[33]=int(i[33]) #convert string to integer
     print "interface fc "+slot+"/"+interface_id+"   tx bb_credit_zero  "+tx_bb_zero
     
 
@@ -135,7 +162,7 @@ for i in interface_fc_info:
 print "=================print interface info order by tx bb credit zero==================="
 
 def getKey(item):
-    return item[35]
+    return item[33]
 
 interface_fc_info_order_bb_zero=[]
 interface_fc_info_order_bb_zero=sorted(interface_fc_info, key=getKey,reverse=True)
@@ -143,6 +170,6 @@ interface_fc_info_order_bb_zero=sorted(interface_fc_info, key=getKey,reverse=Tru
 for i in interface_fc_info_order_bb_zero:
     slot=i[0]  #has to -1 ;-(
     interface_id=i[1]
-    tx_bb_zero=i[35]
+    tx_bb_zero=i[33]
     print "interface fc "+slot+"/"+interface_id+"   tx bb_credit_zero  "+str(tx_bb_zero)
 
