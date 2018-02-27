@@ -1,0 +1,2731 @@
+ show interface counters
+fc1/1
+    5 minutes input rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    5 minutes output rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    7008 frames input, 517324 bytes
+      0 class-2 frames, 0 bytes
+      13 class-3 frames, 1168 bytes
+      6995 class-f frames, 516156 bytes
+      0 discards, 0 errors, 0 CRC
+      0 unknown class, 0 too long, 0 too short
+    7008 frames output, 610812 bytes
+      0 class-2 frames, 0 bytes
+      13 class-3 frames, 1204 bytes
+      6995 class-f frames, 609608 bytes
+      0 discards, 0 errors
+    0 input OLS, 0 LRR, 0 NOS, 0 loop inits
+    1 output OLS, 2 LRR, 1 NOS, 0 loop inits
+    1 link failures, 0 sync losses, 0 signal losses
+     5 transmit B2B credit transitions from zero
+     2 receive B2B credit transitions from zero
+      1 receive B2B credit remaining
+      0 transmit B2B credit remaining
+      0 low priority transmit B2B credit remaining
+fc1/2
+    5 minutes input rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    5 minutes output rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    1 frames input, 172 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 172 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors, 0 CRC
+      0 unknown class, 0 too long, 0 too short
+    1 frames output, 172 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 172 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors
+    0 input OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 output OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 link failures, 0 sync losses, 0 signal losses
+     2 transmit B2B credit transitions from zero
+     0 receive B2B credit transitions from zero
+      1 receive B2B credit remaining
+      0 transmit B2B credit remaining
+      0 low priority transmit B2B credit remaining
+fc1/3
+    5 minutes input rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    5 minutes output rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    17 frames input, 2128 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 112 bytes
+      16 class-f frames, 2016 bytes
+      0 discards, 0 errors, 0 CRC
+      0 unknown class, 0 too long, 0 too short
+    17 frames output, 2124 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 112 bytes
+      16 class-f frames, 2012 bytes
+      0 discards, 0 errors
+    1 input OLS, 1 LRR, 3 NOS, 0 loop inits
+    2 output OLS, 1 LRR, 2 NOS, 0 loop inits
+    0 link failures, 0 sync losses, 0 signal losses
+     5 transmit B2B credit transitions from zero
+     2 receive B2B credit transitions from zero
+      500 receive B2B credit remaining
+      0 transmit B2B credit remaining
+      0 low priority transmit B2B credit remaining
+fc1/4
+    5 minutes input rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    5 minutes output rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    1 frames input, 140 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 140 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors, 0 CRC
+      0 unknown class, 0 too long, 0 too short
+    1 frames output, 140 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 140 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors
+    0 input OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 output OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 link failures, 0 sync losses, 0 signal losses
+     2 transmit B2B credit transitions from zero
+     0 receive B2B credit transitions from zero
+      1 receive B2B credit remaining
+      0 transmit B2B credit remaining
+      0 low priority transmit B2B credit remaining
+fc1/5
+    5 minutes input rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    5 minutes output rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    1 frames input, 212 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 212 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors, 0 CRC
+      0 unknown class, 0 too long, 0 too short
+    1 frames output, 212 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 212 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors
+    0 input OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 output OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 link failures, 0 sync losses, 0 signal losses
+     2 transmit B2B credit transitions from zero
+     0 receive B2B credit transitions from zero
+      1 receive B2B credit remaining
+      0 transmit B2B credit remaining
+      0 low priority transmit B2B credit remaining
+fc1/6
+    5 minutes input rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    5 minutes output rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    1 frames input, 232 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 232 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors, 0 CRC
+      0 unknown class, 0 too long, 0 too short
+    1 frames output, 232 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 232 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors
+    0 input OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 output OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 link failures, 0 sync losses, 0 signal losses
+     2 transmit B2B credit transitions from zero
+     0 receive B2B credit transitions from zero
+      1 receive B2B credit remaining
+      0 transmit B2B credit remaining
+      0 low priority transmit B2B credit remaining
+fc1/7
+    5 minutes input rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    5 minutes output rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    1 frames input, 168 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 168 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors, 0 CRC
+      0 unknown class, 0 too long, 0 too short
+    1 frames output, 168 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 168 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors
+    0 input OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 output OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 link failures, 0 sync losses, 0 signal losses
+     2 transmit B2B credit transitions from zero
+     0 receive B2B credit transitions from zero
+      1 receive B2B credit remaining
+      0 transmit B2B credit remaining
+      0 low priority transmit B2B credit remaining
+fc1/8
+    5 minutes input rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    5 minutes output rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    1 frames input, 120 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 120 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors, 0 CRC
+      0 unknown class, 0 too long, 0 too short
+    1 frames output, 120 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 120 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors
+    0 input OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 output OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 link failures, 0 sync losses, 0 signal losses
+     2 transmit B2B credit transitions from zero
+     0 receive B2B credit transitions from zero
+      1 receive B2B credit remaining
+      0 transmit B2B credit remaining
+      0 low priority transmit B2B credit remaining
+fc1/9
+    5 minutes input rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    5 minutes output rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    1 frames input, 124 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 124 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors, 0 CRC
+      0 unknown class, 0 too long, 0 too short
+    1 frames output, 124 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 124 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors
+    0 input OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 output OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 link failures, 0 sync losses, 0 signal losses
+     2 transmit B2B credit transitions from zero
+     0 receive B2B credit transitions from zero
+      1 receive B2B credit remaining
+      0 transmit B2B credit remaining
+      0 low priority transmit B2B credit remaining
+fc1/10
+    5 minutes input rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    5 minutes output rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    1 frames input, 232 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 232 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors, 0 CRC
+      0 unknown class, 0 too long, 0 too short
+    1 frames output, 232 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 232 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors
+    0 input OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 output OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 link failures, 0 sync losses, 0 signal losses
+     2 transmit B2B credit transitions from zero
+     0 receive B2B credit transitions from zero
+      1 receive B2B credit remaining
+      0 transmit B2B credit remaining
+      0 low priority transmit B2B credit remaining
+fc1/11
+    5 minutes input rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    5 minutes output rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    1 frames input, 152 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 152 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors, 0 CRC
+      0 unknown class, 0 too long, 0 too short
+    1 frames output, 152 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 152 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors
+    0 input OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 output OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 link failures, 0 sync losses, 0 signal losses
+     2 transmit B2B credit transitions from zero
+     0 receive B2B credit transitions from zero
+      1 receive B2B credit remaining
+      0 transmit B2B credit remaining
+      0 low priority transmit B2B credit remaining
+fc1/12
+    5 minutes input rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    5 minutes output rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    1 frames input, 164 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 164 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors, 0 CRC
+      0 unknown class, 0 too long, 0 too short
+    1 frames output, 164 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 164 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors
+    0 input OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 output OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 link failures, 0 sync losses, 0 signal losses
+     2 transmit B2B credit transitions from zero
+     0 receive B2B credit transitions from zero
+      1 receive B2B credit remaining
+      0 transmit B2B credit remaining
+      0 low priority transmit B2B credit remaining
+fc1/13
+    5 minutes input rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    5 minutes output rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    1 frames input, 236 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 236 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors, 0 CRC
+      0 unknown class, 0 too long, 0 too short
+    1 frames output, 236 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 236 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors
+    0 input OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 output OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 link failures, 0 sync losses, 0 signal losses
+     2 transmit B2B credit transitions from zero
+     0 receive B2B credit transitions from zero
+      1 receive B2B credit remaining
+      0 transmit B2B credit remaining
+      0 low priority transmit B2B credit remaining
+fc1/14
+    5 minutes input rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    5 minutes output rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    1 frames input, 224 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 224 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors, 0 CRC
+      0 unknown class, 0 too long, 0 too short
+    1 frames output, 224 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 224 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors
+    0 input OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 output OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 link failures, 0 sync losses, 0 signal losses
+     2 transmit B2B credit transitions from zero
+     0 receive B2B credit transitions from zero
+      1 receive B2B credit remaining
+      0 transmit B2B credit remaining
+      0 low priority transmit B2B credit remaining
+fc1/15
+    5 minutes input rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    5 minutes output rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    1 frames input, 180 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 180 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors, 0 CRC
+      0 unknown class, 0 too long, 0 too short
+    1 frames output, 180 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 180 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors
+    0 input OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 output OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 link failures, 0 sync losses, 0 signal losses
+     2 transmit B2B credit transitions from zero
+     0 receive B2B credit transitions from zero
+      1 receive B2B credit remaining
+      0 transmit B2B credit remaining
+      0 low priority transmit B2B credit remaining
+fc1/16
+    5 minutes input rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    5 minutes output rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    1 frames input, 232 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 232 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors, 0 CRC
+      0 unknown class, 0 too long, 0 too short
+    1 frames output, 232 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 232 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors
+    0 input OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 output OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 link failures, 0 sync losses, 0 signal losses
+     2 transmit B2B credit transitions from zero
+     0 receive B2B credit transitions from zero
+      1 receive B2B credit remaining
+      0 transmit B2B credit remaining
+      0 low priority transmit B2B credit remaining
+fc1/17
+    5 minutes input rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    5 minutes output rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    1 frames input, 164 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 164 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors, 0 CRC
+      0 unknown class, 0 too long, 0 too short
+    1 frames output, 164 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 164 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors
+    0 input OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 output OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 link failures, 0 sync losses, 0 signal losses
+     2 transmit B2B credit transitions from zero
+     0 receive B2B credit transitions from zero
+      1 receive B2B credit remaining
+      0 transmit B2B credit remaining
+      0 low priority transmit B2B credit remaining
+fc1/18
+    5 minutes input rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    5 minutes output rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    1 frames input, 112 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 112 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors, 0 CRC
+      0 unknown class, 0 too long, 0 too short
+    1 frames output, 112 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 112 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors
+    0 input OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 output OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 link failures, 0 sync losses, 0 signal losses
+     2 transmit B2B credit transitions from zero
+     0 receive B2B credit transitions from zero
+      1 receive B2B credit remaining
+      0 transmit B2B credit remaining
+      0 low priority transmit B2B credit remaining
+fc1/19
+    5 minutes input rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    5 minutes output rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    1 frames input, 140 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 140 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors, 0 CRC
+      0 unknown class, 0 too long, 0 too short
+    1 frames output, 140 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 140 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors
+    0 input OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 output OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 link failures, 0 sync losses, 0 signal losses
+     2 transmit B2B credit transitions from zero
+     0 receive B2B credit transitions from zero
+      1 receive B2B credit remaining
+      0 transmit B2B credit remaining
+      0 low priority transmit B2B credit remaining
+fc1/20
+    5 minutes input rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    5 minutes output rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    1 frames input, 204 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 204 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors, 0 CRC
+      0 unknown class, 0 too long, 0 too short
+    1 frames output, 204 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 204 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors
+    0 input OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 output OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 link failures, 0 sync losses, 0 signal losses
+     2 transmit B2B credit transitions from zero
+     0 receive B2B credit transitions from zero
+      1 receive B2B credit remaining
+      0 transmit B2B credit remaining
+      0 low priority transmit B2B credit remaining
+fc1/21
+    5 minutes input rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    5 minutes output rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    1 frames input, 140 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 140 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors, 0 CRC
+      0 unknown class, 0 too long, 0 too short
+    1 frames output, 140 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 140 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors
+    0 input OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 output OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 link failures, 0 sync losses, 0 signal losses
+     2 transmit B2B credit transitions from zero
+     0 receive B2B credit transitions from zero
+      1 receive B2B credit remaining
+      0 transmit B2B credit remaining
+      0 low priority transmit B2B credit remaining
+fc1/22
+    5 minutes input rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    5 minutes output rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    1 frames input, 144 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 144 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors, 0 CRC
+      0 unknown class, 0 too long, 0 too short
+    1 frames output, 144 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 144 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors
+    0 input OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 output OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 link failures, 0 sync losses, 0 signal losses
+     2 transmit B2B credit transitions from zero
+     0 receive B2B credit transitions from zero
+      1 receive B2B credit remaining
+      0 transmit B2B credit remaining
+      0 low priority transmit B2B credit remaining
+fc1/23
+    5 minutes input rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    5 minutes output rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    1 frames input, 160 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 160 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors, 0 CRC
+      0 unknown class, 0 too long, 0 too short
+    1 frames output, 160 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 160 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors
+    0 input OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 output OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 link failures, 0 sync losses, 0 signal losses
+     2 transmit B2B credit transitions from zero
+     0 receive B2B credit transitions from zero
+      1 receive B2B credit remaining
+      0 transmit B2B credit remaining
+      0 low priority transmit B2B credit remaining
+fc1/24
+    5 minutes input rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    5 minutes output rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    1 frames input, 220 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 220 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors, 0 CRC
+      0 unknown class, 0 too long, 0 too short
+    1 frames output, 220 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 220 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors
+    0 input OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 output OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 link failures, 0 sync losses, 0 signal losses
+     2 transmit B2B credit transitions from zero
+     0 receive B2B credit transitions from zero
+      1 receive B2B credit remaining
+      0 transmit B2B credit remaining
+      0 low priority transmit B2B credit remaining
+fc1/25
+    5 minutes input rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    5 minutes output rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    1 frames input, 148 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 148 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors, 0 CRC
+      0 unknown class, 0 too long, 0 too short
+    1 frames output, 148 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 148 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors
+    0 input OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 output OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 link failures, 0 sync losses, 0 signal losses
+     2 transmit B2B credit transitions from zero
+     0 receive B2B credit transitions from zero
+      1 receive B2B credit remaining
+      0 transmit B2B credit remaining
+      0 low priority transmit B2B credit remaining
+fc1/26
+    5 minutes input rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    5 minutes output rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    1 frames input, 132 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 132 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors, 0 CRC
+      0 unknown class, 0 too long, 0 too short
+    1 frames output, 132 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 132 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors
+    0 input OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 output OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 link failures, 0 sync losses, 0 signal losses
+     2 transmit B2B credit transitions from zero
+     0 receive B2B credit transitions from zero
+      1 receive B2B credit remaining
+      0 transmit B2B credit remaining
+      0 low priority transmit B2B credit remaining
+fc1/27
+    5 minutes input rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    5 minutes output rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    1 frames input, 204 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 204 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors, 0 CRC
+      0 unknown class, 0 too long, 0 too short
+    1 frames output, 204 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 204 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors
+    0 input OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 output OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 link failures, 0 sync losses, 0 signal losses
+     2 transmit B2B credit transitions from zero
+     0 receive B2B credit transitions from zero
+      1 receive B2B credit remaining
+      0 transmit B2B credit remaining
+      0 low priority transmit B2B credit remaining
+fc1/28
+    5 minutes input rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    5 minutes output rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    1 frames input, 216 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 216 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors, 0 CRC
+      0 unknown class, 0 too long, 0 too short
+    1 frames output, 216 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 216 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors
+    0 input OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 output OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 link failures, 0 sync losses, 0 signal losses
+     2 transmit B2B credit transitions from zero
+     0 receive B2B credit transitions from zero
+      1 receive B2B credit remaining
+      0 transmit B2B credit remaining
+      0 low priority transmit B2B credit remaining
+fc1/29
+    5 minutes input rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    5 minutes output rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    1 frames input, 220 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 220 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors, 0 CRC
+      0 unknown class, 0 too long, 0 too short
+    1 frames output, 220 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 220 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors
+    0 input OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 output OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 link failures, 0 sync losses, 0 signal losses
+     2 transmit B2B credit transitions from zero
+     0 receive B2B credit transitions from zero
+      1 receive B2B credit remaining
+      0 transmit B2B credit remaining
+      0 low priority transmit B2B credit remaining
+fc1/30
+    5 minutes input rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    5 minutes output rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    1 frames input, 192 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 192 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors, 0 CRC
+      0 unknown class, 0 too long, 0 too short
+    1 frames output, 192 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 192 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors
+    0 input OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 output OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 link failures, 0 sync losses, 0 signal losses
+     2 transmit B2B credit transitions from zero
+     0 receive B2B credit transitions from zero
+      1 receive B2B credit remaining
+      0 transmit B2B credit remaining
+      0 low priority transmit B2B credit remaining
+fc1/31
+    5 minutes input rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    5 minutes output rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    1 frames input, 168 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 168 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors, 0 CRC
+      0 unknown class, 0 too long, 0 too short
+    1 frames output, 168 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 168 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors
+    0 input OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 output OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 link failures, 0 sync losses, 0 signal losses
+     2 transmit B2B credit transitions from zero
+     0 receive B2B credit transitions from zero
+      1 receive B2B credit remaining
+      0 transmit B2B credit remaining
+      0 low priority transmit B2B credit remaining
+fc1/32
+    5 minutes input rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    5 minutes output rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    1 frames input, 124 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 124 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors, 0 CRC
+      0 unknown class, 0 too long, 0 too short
+    1 frames output, 124 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 124 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors
+    0 input OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 output OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 link failures, 0 sync losses, 0 signal losses
+     2 transmit B2B credit transitions from zero
+     0 receive B2B credit transitions from zero
+      1 receive B2B credit remaining
+      0 transmit B2B credit remaining
+      0 low priority transmit B2B credit remaining
+fc1/33
+    5 minutes input rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    5 minutes output rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    1 frames input, 204 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 204 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors, 0 CRC
+      0 unknown class, 0 too long, 0 too short
+    1 frames output, 204 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 204 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors
+    0 input OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 output OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 link failures, 0 sync losses, 0 signal losses
+     2 transmit B2B credit transitions from zero
+     0 receive B2B credit transitions from zero
+      1 receive B2B credit remaining
+      0 transmit B2B credit remaining
+      0 low priority transmit B2B credit remaining
+fc1/34
+    5 minutes input rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    5 minutes output rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    1 frames input, 228 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 228 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors, 0 CRC
+      0 unknown class, 0 too long, 0 too short
+    1 frames output, 228 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 228 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors
+    0 input OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 output OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 link failures, 0 sync losses, 0 signal losses
+     2 transmit B2B credit transitions from zero
+     0 receive B2B credit transitions from zero
+      1 receive B2B credit remaining
+      0 transmit B2B credit remaining
+      0 low priority transmit B2B credit remaining
+fc1/35
+    5 minutes input rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    5 minutes output rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    1 frames input, 116 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 116 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors, 0 CRC
+      0 unknown class, 0 too long, 0 too short
+    1 frames output, 116 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 116 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors
+    0 input OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 output OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 link failures, 0 sync losses, 0 signal losses
+     2 transmit B2B credit transitions from zero
+     0 receive B2B credit transitions from zero
+      1 receive B2B credit remaining
+      0 transmit B2B credit remaining
+      0 low priority transmit B2B credit remaining
+fc1/36
+    5 minutes input rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    5 minutes output rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    1 frames input, 112 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 112 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors, 0 CRC
+      0 unknown class, 0 too long, 0 too short
+    1 frames output, 112 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 112 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors
+    0 input OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 output OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 link failures, 0 sync losses, 0 signal losses
+     2 transmit B2B credit transitions from zero
+     0 receive B2B credit transitions from zero
+      1 receive B2B credit remaining
+      0 transmit B2B credit remaining
+      0 low priority transmit B2B credit remaining
+fc1/37
+    5 minutes input rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    5 minutes output rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    1 frames input, 144 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 144 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors, 0 CRC
+      0 unknown class, 0 too long, 0 too short
+    1 frames output, 144 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 144 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors
+    0 input OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 output OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 link failures, 0 sync losses, 0 signal losses
+     2 transmit B2B credit transitions from zero
+     0 receive B2B credit transitions from zero
+      1 receive B2B credit remaining
+      0 transmit B2B credit remaining
+      0 low priority transmit B2B credit remaining
+fc1/38
+    5 minutes input rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    5 minutes output rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    1 frames input, 184 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 184 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors, 0 CRC
+      0 unknown class, 0 too long, 0 too short
+    1 frames output, 184 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 184 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors
+    0 input OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 output OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 link failures, 0 sync losses, 0 signal losses
+     2 transmit B2B credit transitions from zero
+     0 receive B2B credit transitions from zero
+      1 receive B2B credit remaining
+      0 transmit B2B credit remaining
+      0 low priority transmit B2B credit remaining
+fc1/39
+    5 minutes input rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    5 minutes output rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    1 frames input, 196 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 196 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors, 0 CRC
+      0 unknown class, 0 too long, 0 too short
+    1 frames output, 196 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 196 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors
+    0 input OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 output OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 link failures, 0 sync losses, 0 signal losses
+     2 transmit B2B credit transitions from zero
+     0 receive B2B credit transitions from zero
+      1 receive B2B credit remaining
+      0 transmit B2B credit remaining
+      0 low priority transmit B2B credit remaining
+fc1/40
+    5 minutes input rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    5 minutes output rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    1 frames input, 160 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 160 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors, 0 CRC
+      0 unknown class, 0 too long, 0 too short
+    1 frames output, 160 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 160 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors
+    0 input OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 output OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 link failures, 0 sync losses, 0 signal losses
+     2 transmit B2B credit transitions from zero
+     0 receive B2B credit transitions from zero
+      1 receive B2B credit remaining
+      0 transmit B2B credit remaining
+      0 low priority transmit B2B credit remaining
+fc1/41
+    5 minutes input rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    5 minutes output rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    1 frames input, 196 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 196 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors, 0 CRC
+      0 unknown class, 0 too long, 0 too short
+    1 frames output, 196 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 196 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors
+    0 input OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 output OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 link failures, 0 sync losses, 0 signal losses
+     2 transmit B2B credit transitions from zero
+     0 receive B2B credit transitions from zero
+      1 receive B2B credit remaining
+      0 transmit B2B credit remaining
+      0 low priority transmit B2B credit remaining
+fc1/42
+    5 minutes input rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    5 minutes output rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    1 frames input, 120 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 120 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors, 0 CRC
+      0 unknown class, 0 too long, 0 too short
+    1 frames output, 120 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 120 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors
+    0 input OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 output OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 link failures, 0 sync losses, 0 signal losses
+     2 transmit B2B credit transitions from zero
+     0 receive B2B credit transitions from zero
+      1 receive B2B credit remaining
+      0 transmit B2B credit remaining
+      0 low priority transmit B2B credit remaining
+fc1/43
+    5 minutes input rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    5 minutes output rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    1 frames input, 148 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 148 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors, 0 CRC
+      0 unknown class, 0 too long, 0 too short
+    1 frames output, 148 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 148 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors
+    0 input OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 output OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 link failures, 0 sync losses, 0 signal losses
+     2 transmit B2B credit transitions from zero
+     0 receive B2B credit transitions from zero
+      1 receive B2B credit remaining
+      0 transmit B2B credit remaining
+      0 low priority transmit B2B credit remaining
+fc1/44
+    5 minutes input rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    5 minutes output rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    1 frames input, 124 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 124 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors, 0 CRC
+      0 unknown class, 0 too long, 0 too short
+    1 frames output, 124 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 124 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors
+    0 input OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 output OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 link failures, 0 sync losses, 0 signal losses
+     2 transmit B2B credit transitions from zero
+     0 receive B2B credit transitions from zero
+      1 receive B2B credit remaining
+      0 transmit B2B credit remaining
+      0 low priority transmit B2B credit remaining
+fc1/45
+    5 minutes input rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    5 minutes output rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    1 frames input, 204 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 204 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors, 0 CRC
+      0 unknown class, 0 too long, 0 too short
+    1 frames output, 204 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 204 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors
+    0 input OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 output OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 link failures, 0 sync losses, 0 signal losses
+     2 transmit B2B credit transitions from zero
+     0 receive B2B credit transitions from zero
+      1 receive B2B credit remaining
+      0 transmit B2B credit remaining
+      0 low priority transmit B2B credit remaining
+fc1/46
+    5 minutes input rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    5 minutes output rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    1 frames input, 148 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 148 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors, 0 CRC
+      0 unknown class, 0 too long, 0 too short
+    1 frames output, 148 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 148 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors
+    0 input OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 output OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 link failures, 0 sync losses, 0 signal losses
+     2 transmit B2B credit transitions from zero
+     0 receive B2B credit transitions from zero
+      1 receive B2B credit remaining
+      0 transmit B2B credit remaining
+      0 low priority transmit B2B credit remaining
+fc1/47
+    5 minutes input rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    5 minutes output rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    1 frames input, 176 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 176 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors, 0 CRC
+      0 unknown class, 0 too long, 0 too short
+    1 frames output, 176 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 176 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors
+    0 input OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 output OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 link failures, 0 sync losses, 0 signal losses
+     2 transmit B2B credit transitions from zero
+     0 receive B2B credit transitions from zero
+      1 receive B2B credit remaining
+      0 transmit B2B credit remaining
+      0 low priority transmit B2B credit remaining
+fc1/48
+    5 minutes input rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    5 minutes output rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    1 frames input, 220 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 220 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors, 0 CRC
+      0 unknown class, 0 too long, 0 too short
+    1 frames output, 220 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 220 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors
+    0 input OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 output OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 link failures, 0 sync losses, 0 signal losses
+     2 transmit B2B credit transitions from zero
+     0 receive B2B credit transitions from zero
+      1 receive B2B credit remaining
+      0 transmit B2B credit remaining
+      0 low priority transmit B2B credit remaining
+fc2/1
+    5 minutes input rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    5 minutes output rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    1 frames input, 180 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 180 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors, 0 CRC
+      0 unknown class, 0 too long, 0 too short
+    1 frames output, 180 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 180 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors
+    0 input OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 output OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 link failures, 0 sync losses, 0 signal losses
+     1 transmit B2B credit transitions from zero
+     3 receive B2B credit transitions from zero
+      1 receive B2B credit remaining
+      1 transmit B2B credit remaining
+      1 low priority transmit B2B credit remaining
+fc2/2
+    5 minutes input rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    5 minutes output rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    1 frames input, 140 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 140 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors, 0 CRC
+      0 unknown class, 0 too long, 0 too short
+    1 frames output, 140 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 140 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors
+    0 input OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 output OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 link failures, 0 sync losses, 0 signal losses
+     1 transmit B2B credit transitions from zero
+     3 receive B2B credit transitions from zero
+      1 receive B2B credit remaining
+      1 transmit B2B credit remaining
+      1 low priority transmit B2B credit remaining
+fc2/3
+    5 minutes input rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    5 minutes output rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    1 frames input, 128 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 128 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors, 0 CRC
+      0 unknown class, 0 too long, 0 too short
+    1 frames output, 128 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 128 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors
+    0 input OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 output OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 link failures, 0 sync losses, 0 signal losses
+     1 transmit B2B credit transitions from zero
+     3 receive B2B credit transitions from zero
+      1 receive B2B credit remaining
+      1 transmit B2B credit remaining
+      1 low priority transmit B2B credit remaining
+fc2/4
+    5 minutes input rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    5 minutes output rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    1 frames input, 104 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 104 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors, 0 CRC
+      0 unknown class, 0 too long, 0 too short
+    1 frames output, 104 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 104 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors
+    0 input OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 output OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 link failures, 0 sync losses, 0 signal losses
+     1 transmit B2B credit transitions from zero
+     3 receive B2B credit transitions from zero
+      1 receive B2B credit remaining
+      1 transmit B2B credit remaining
+      1 low priority transmit B2B credit remaining
+fc2/5
+    5 minutes input rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    5 minutes output rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    1 frames input, 124 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 124 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors, 0 CRC
+      0 unknown class, 0 too long, 0 too short
+    1 frames output, 124 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 124 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors
+    0 input OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 output OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 link failures, 0 sync losses, 0 signal losses
+     1 transmit B2B credit transitions from zero
+     3 receive B2B credit transitions from zero
+      1 receive B2B credit remaining
+      1 transmit B2B credit remaining
+      1 low priority transmit B2B credit remaining
+fc2/6
+    5 minutes input rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    5 minutes output rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    1 frames input, 168 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 168 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors, 0 CRC
+      0 unknown class, 0 too long, 0 too short
+    1 frames output, 168 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 168 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors
+    0 input OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 output OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 link failures, 0 sync losses, 0 signal losses
+     1 transmit B2B credit transitions from zero
+     3 receive B2B credit transitions from zero
+      1 receive B2B credit remaining
+      1 transmit B2B credit remaining
+      1 low priority transmit B2B credit remaining
+fc2/7
+    5 minutes input rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    5 minutes output rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    1 frames input, 120 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 120 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors, 0 CRC
+      0 unknown class, 0 too long, 0 too short
+    1 frames output, 120 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 120 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors
+    0 input OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 output OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 link failures, 0 sync losses, 0 signal losses
+     1 transmit B2B credit transitions from zero
+     3 receive B2B credit transitions from zero
+      1 receive B2B credit remaining
+      1 transmit B2B credit remaining
+      1 low priority transmit B2B credit remaining
+fc2/8
+    5 minutes input rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    5 minutes output rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    1 frames input, 184 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 184 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors, 0 CRC
+      0 unknown class, 0 too long, 0 too short
+    1 frames output, 184 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 184 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors
+    0 input OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 output OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 link failures, 0 sync losses, 0 signal losses
+     1 transmit B2B credit transitions from zero
+     3 receive B2B credit transitions from zero
+      1 receive B2B credit remaining
+      1 transmit B2B credit remaining
+      1 low priority transmit B2B credit remaining
+fc2/9
+    5 minutes input rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    5 minutes output rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    1 frames input, 188 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 188 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors, 0 CRC
+      0 unknown class, 0 too long, 0 too short
+    1 frames output, 188 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 188 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors
+    0 input OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 output OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 link failures, 0 sync losses, 0 signal losses
+     1 transmit B2B credit transitions from zero
+     3 receive B2B credit transitions from zero
+      1 receive B2B credit remaining
+      1 transmit B2B credit remaining
+      1 low priority transmit B2B credit remaining
+fc2/10
+    5 minutes input rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    5 minutes output rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    1 frames input, 212 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 212 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors, 0 CRC
+      0 unknown class, 0 too long, 0 too short
+    1 frames output, 212 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 212 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors
+    0 input OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 output OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 link failures, 0 sync losses, 0 signal losses
+     1 transmit B2B credit transitions from zero
+     3 receive B2B credit transitions from zero
+      1 receive B2B credit remaining
+      1 transmit B2B credit remaining
+      1 low priority transmit B2B credit remaining
+fc2/11
+    5 minutes input rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    5 minutes output rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    1 frames input, 136 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 136 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors, 0 CRC
+      0 unknown class, 0 too long, 0 too short
+    1 frames output, 136 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 136 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors
+    0 input OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 output OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 link failures, 0 sync losses, 0 signal losses
+     1 transmit B2B credit transitions from zero
+     3 receive B2B credit transitions from zero
+      1 receive B2B credit remaining
+      1 transmit B2B credit remaining
+      1 low priority transmit B2B credit remaining
+fc2/12
+    5 minutes input rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    5 minutes output rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    1 frames input, 164 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 164 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors, 0 CRC
+      0 unknown class, 0 too long, 0 too short
+    1 frames output, 164 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 164 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors
+    0 input OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 output OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 link failures, 0 sync losses, 0 signal losses
+     1 transmit B2B credit transitions from zero
+     3 receive B2B credit transitions from zero
+      1 receive B2B credit remaining
+      1 transmit B2B credit remaining
+      1 low priority transmit B2B credit remaining
+fc2/13
+    5 minutes input rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    5 minutes output rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    1 frames input, 216 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 216 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors, 0 CRC
+      0 unknown class, 0 too long, 0 too short
+    1 frames output, 216 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 216 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors
+    0 input OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 output OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 link failures, 0 sync losses, 0 signal losses
+     1 transmit B2B credit transitions from zero
+     3 receive B2B credit transitions from zero
+      1 receive B2B credit remaining
+      1 transmit B2B credit remaining
+      1 low priority transmit B2B credit remaining
+fc2/14
+    5 minutes input rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    5 minutes output rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    1 frames input, 224 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 224 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors, 0 CRC
+      0 unknown class, 0 too long, 0 too short
+    1 frames output, 224 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 224 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors
+    0 input OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 output OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 link failures, 0 sync losses, 0 signal losses
+     1 transmit B2B credit transitions from zero
+     3 receive B2B credit transitions from zero
+      1 receive B2B credit remaining
+      1 transmit B2B credit remaining
+      1 low priority transmit B2B credit remaining
+fc2/15
+    5 minutes input rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    5 minutes output rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    1 frames input, 148 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 148 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors, 0 CRC
+      0 unknown class, 0 too long, 0 too short
+    1 frames output, 148 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 148 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors
+    0 input OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 output OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 link failures, 0 sync losses, 0 signal losses
+     1 transmit B2B credit transitions from zero
+     3 receive B2B credit transitions from zero
+      1 receive B2B credit remaining
+      1 transmit B2B credit remaining
+      1 low priority transmit B2B credit remaining
+fc2/16
+    5 minutes input rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    5 minutes output rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    1 frames input, 132 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 132 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors, 0 CRC
+      0 unknown class, 0 too long, 0 too short
+    1 frames output, 132 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 132 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors
+    0 input OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 output OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 link failures, 0 sync losses, 0 signal losses
+     1 transmit B2B credit transitions from zero
+     3 receive B2B credit transitions from zero
+      1 receive B2B credit remaining
+      1 transmit B2B credit remaining
+      1 low priority transmit B2B credit remaining
+fc2/17
+    5 minutes input rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    5 minutes output rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    1 frames input, 188 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 188 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors, 0 CRC
+      0 unknown class, 0 too long, 0 too short
+    1 frames output, 188 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 188 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors
+    0 input OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 output OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 link failures, 0 sync losses, 0 signal losses
+     1 transmit B2B credit transitions from zero
+     3 receive B2B credit transitions from zero
+      1 receive B2B credit remaining
+      1 transmit B2B credit remaining
+      1 low priority transmit B2B credit remaining
+fc2/18
+    5 minutes input rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    5 minutes output rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    1 frames input, 196 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 196 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors, 0 CRC
+      0 unknown class, 0 too long, 0 too short
+    1 frames output, 196 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 196 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors
+    0 input OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 output OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 link failures, 0 sync losses, 0 signal losses
+     1 transmit B2B credit transitions from zero
+     3 receive B2B credit transitions from zero
+      1 receive B2B credit remaining
+      1 transmit B2B credit remaining
+      1 low priority transmit B2B credit remaining
+fc3/1
+    5 minutes input rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    5 minutes output rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    624 frames input, 54384 bytes
+      0 class-2 frames, 0 bytes
+      13 class-3 frames, 1088 bytes
+      611 class-f frames, 53296 bytes
+      0 discards, 0 errors, 0 CRC
+      0 unknown class, 0 too long, 0 too short
+    622 frames output, 55964 bytes
+      0 class-2 frames, 0 bytes
+      13 class-3 frames, 1124 bytes
+      609 class-f frames, 54840 bytes
+      0 discards, 0 errors
+    0 input OLS, 1 LRR, 0 NOS, 0 loop inits
+    2 output OLS, 1 LRR, 0 NOS, 0 loop inits
+    0 link failures, 0 sync losses, 0 signal losses
+     3 transmit B2B credit transitions from zero
+     6 receive B2B credit transitions from zero
+      500 receive B2B credit remaining
+      0 transmit B2B credit remaining
+      0 low priority transmit B2B credit remaining
+fc3/2
+    5 minutes input rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    5 minutes output rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    11 frames input, 1536 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 216 bytes
+      10 class-f frames, 1320 bytes
+      0 discards, 0 errors, 0 CRC
+      0 unknown class, 0 too long, 0 too short
+    1 frames output, 216 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 216 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors
+    18 input OLS, 11 LRR, 1 NOS, 0 loop inits
+    10 output OLS, 1 LRR, 7 NOS, 9 loop inits
+    7 link failures, 0 sync losses, 0 signal losses
+     21 transmit B2B credit transitions from zero
+     24 receive B2B credit transitions from zero
+      32 receive B2B credit remaining
+      1 transmit B2B credit remaining
+      1 low priority transmit B2B credit remaining
+fc3/3
+    5 minutes input rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    5 minutes output rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    1 frames input, 156 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 156 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors, 0 CRC
+      0 unknown class, 0 too long, 0 too short
+    1 frames output, 156 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 156 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors
+    0 input OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 output OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 link failures, 0 sync losses, 0 signal losses
+     1 transmit B2B credit transitions from zero
+     3 receive B2B credit transitions from zero
+      1 receive B2B credit remaining
+      1 transmit B2B credit remaining
+      1 low priority transmit B2B credit remaining
+fc3/4
+    5 minutes input rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    5 minutes output rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    1 frames input, 188 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 188 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors, 0 CRC
+      0 unknown class, 0 too long, 0 too short
+    1 frames output, 188 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 188 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors
+    0 input OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 output OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 link failures, 0 sync losses, 0 signal losses
+     1 transmit B2B credit transitions from zero
+     3 receive B2B credit transitions from zero
+      1 receive B2B credit remaining
+      1 transmit B2B credit remaining
+      1 low priority transmit B2B credit remaining
+fc3/5
+    5 minutes input rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    5 minutes output rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    1 frames input, 152 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 152 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors, 0 CRC
+      0 unknown class, 0 too long, 0 too short
+    1 frames output, 152 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 152 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors
+    0 input OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 output OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 link failures, 0 sync losses, 0 signal losses
+     1 transmit B2B credit transitions from zero
+     3 receive B2B credit transitions from zero
+      1 receive B2B credit remaining
+      1 transmit B2B credit remaining
+      1 low priority transmit B2B credit remaining
+fc3/6
+    5 minutes input rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    5 minutes output rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    1 frames input, 148 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 148 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors, 0 CRC
+      0 unknown class, 0 too long, 0 too short
+    1 frames output, 148 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 148 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors
+    0 input OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 output OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 link failures, 0 sync losses, 0 signal losses
+     1 transmit B2B credit transitions from zero
+     3 receive B2B credit transitions from zero
+      1 receive B2B credit remaining
+      1 transmit B2B credit remaining
+      1 low priority transmit B2B credit remaining
+fc3/7
+    5 minutes input rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    5 minutes output rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    1 frames input, 132 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 132 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors, 0 CRC
+      0 unknown class, 0 too long, 0 too short
+    1 frames output, 132 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 132 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors
+    0 input OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 output OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 link failures, 0 sync losses, 0 signal losses
+     1 transmit B2B credit transitions from zero
+     3 receive B2B credit transitions from zero
+      1 receive B2B credit remaining
+      1 transmit B2B credit remaining
+      1 low priority transmit B2B credit remaining
+fc3/8
+    5 minutes input rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    5 minutes output rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    1 frames input, 144 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 144 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors, 0 CRC
+      0 unknown class, 0 too long, 0 too short
+    1 frames output, 144 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 144 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors
+    0 input OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 output OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 link failures, 0 sync losses, 0 signal losses
+     1 transmit B2B credit transitions from zero
+     3 receive B2B credit transitions from zero
+      1 receive B2B credit remaining
+      1 transmit B2B credit remaining
+      1 low priority transmit B2B credit remaining
+fc3/9
+    5 minutes input rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    5 minutes output rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    1 frames input, 172 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 172 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors, 0 CRC
+      0 unknown class, 0 too long, 0 too short
+    1 frames output, 172 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 172 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors
+    0 input OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 output OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 link failures, 0 sync losses, 0 signal losses
+     1 transmit B2B credit transitions from zero
+     3 receive B2B credit transitions from zero
+      1 receive B2B credit remaining
+      1 transmit B2B credit remaining
+      1 low priority transmit B2B credit remaining
+fc3/10
+    5 minutes input rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    5 minutes output rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    1 frames input, 136 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 136 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors, 0 CRC
+      0 unknown class, 0 too long, 0 too short
+    1 frames output, 136 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 136 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors
+    0 input OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 output OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 link failures, 0 sync losses, 0 signal losses
+     1 transmit B2B credit transitions from zero
+     3 receive B2B credit transitions from zero
+      1 receive B2B credit remaining
+      1 transmit B2B credit remaining
+      1 low priority transmit B2B credit remaining
+fc3/11
+    5 minutes input rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    5 minutes output rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    1 frames input, 160 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 160 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors, 0 CRC
+      0 unknown class, 0 too long, 0 too short
+    1 frames output, 160 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 160 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors
+    0 input OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 output OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 link failures, 0 sync losses, 0 signal losses
+     1 transmit B2B credit transitions from zero
+     3 receive B2B credit transitions from zero
+      1 receive B2B credit remaining
+      1 transmit B2B credit remaining
+      1 low priority transmit B2B credit remaining
+fc3/12
+    5 minutes input rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    5 minutes output rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    1 frames input, 212 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 212 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors, 0 CRC
+      0 unknown class, 0 too long, 0 too short
+    1 frames output, 212 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 212 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors
+    0 input OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 output OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 link failures, 0 sync losses, 0 signal losses
+     1 transmit B2B credit transitions from zero
+     3 receive B2B credit transitions from zero
+      1 receive B2B credit remaining
+      1 transmit B2B credit remaining
+      1 low priority transmit B2B credit remaining
+fc3/13
+    5 minutes input rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    5 minutes output rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    1 frames input, 192 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 192 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors, 0 CRC
+      0 unknown class, 0 too long, 0 too short
+    1 frames output, 192 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 192 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors
+    0 input OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 output OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 link failures, 0 sync losses, 0 signal losses
+     1 transmit B2B credit transitions from zero
+     3 receive B2B credit transitions from zero
+      1 receive B2B credit remaining
+      1 transmit B2B credit remaining
+      1 low priority transmit B2B credit remaining
+fc3/14
+    5 minutes input rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    5 minutes output rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    1 frames input, 148 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 148 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors, 0 CRC
+      0 unknown class, 0 too long, 0 too short
+    1 frames output, 148 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 148 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors
+    0 input OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 output OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 link failures, 0 sync losses, 0 signal losses
+     1 transmit B2B credit transitions from zero
+     4 receive B2B credit transitions from zero
+      1 receive B2B credit remaining
+      1 transmit B2B credit remaining
+      1 low priority transmit B2B credit remaining
+fc3/15
+    5 minutes input rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    5 minutes output rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    1 frames input, 164 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 164 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors, 0 CRC
+      0 unknown class, 0 too long, 0 too short
+    1 frames output, 164 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 164 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors
+    0 input OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 output OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 link failures, 0 sync losses, 0 signal losses
+     1 transmit B2B credit transitions from zero
+     3 receive B2B credit transitions from zero
+      1 receive B2B credit remaining
+      1 transmit B2B credit remaining
+      1 low priority transmit B2B credit remaining
+fc3/16
+    5 minutes input rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    5 minutes output rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    1 frames input, 124 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 124 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors, 0 CRC
+      0 unknown class, 0 too long, 0 too short
+    1 frames output, 124 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 124 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors
+    0 input OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 output OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 link failures, 0 sync losses, 0 signal losses
+     1 transmit B2B credit transitions from zero
+     3 receive B2B credit transitions from zero
+      1 receive B2B credit remaining
+      1 transmit B2B credit remaining
+      1 low priority transmit B2B credit remaining
+fc3/17
+    5 minutes input rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    5 minutes output rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    1 frames input, 144 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 144 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors, 0 CRC
+      0 unknown class, 0 too long, 0 too short
+    1 frames output, 144 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 144 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors
+    0 input OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 output OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 link failures, 0 sync losses, 0 signal losses
+     1 transmit B2B credit transitions from zero
+     3 receive B2B credit transitions from zero
+      1 receive B2B credit remaining
+      1 transmit B2B credit remaining
+      1 low priority transmit B2B credit remaining
+fc3/18
+    5 minutes input rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    5 minutes output rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    1 frames input, 128 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 128 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors, 0 CRC
+      0 unknown class, 0 too long, 0 too short
+    1 frames output, 128 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 128 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors
+    0 input OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 output OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 link failures, 0 sync losses, 0 signal losses
+     1 transmit B2B credit transitions from zero
+     3 receive B2B credit transitions from zero
+      1 receive B2B credit remaining
+      1 transmit B2B credit remaining
+      1 low priority transmit B2B credit remaining
+fc3/19
+    5 minutes input rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    5 minutes output rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    1 frames input, 140 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 140 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors, 0 CRC
+      0 unknown class, 0 too long, 0 too short
+    1 frames output, 140 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 140 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors
+    0 input OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 output OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 link failures, 0 sync losses, 0 signal losses
+     1 transmit B2B credit transitions from zero
+     3 receive B2B credit transitions from zero
+      1 receive B2B credit remaining
+      1 transmit B2B credit remaining
+      1 low priority transmit B2B credit remaining
+fc3/20
+    5 minutes input rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    5 minutes output rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    1 frames input, 136 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 136 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors, 0 CRC
+      0 unknown class, 0 too long, 0 too short
+    1 frames output, 136 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 136 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors
+    0 input OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 output OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 link failures, 0 sync losses, 0 signal losses
+     1 transmit B2B credit transitions from zero
+     3 receive B2B credit transitions from zero
+      1 receive B2B credit remaining
+      1 transmit B2B credit remaining
+      1 low priority transmit B2B credit remaining
+fc3/21
+    5 minutes input rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    5 minutes output rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    1 frames input, 160 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 160 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors, 0 CRC
+      0 unknown class, 0 too long, 0 too short
+    1 frames output, 160 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 160 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors
+    0 input OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 output OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 link failures, 0 sync losses, 0 signal losses
+     1 transmit B2B credit transitions from zero
+     3 receive B2B credit transitions from zero
+      1 receive B2B credit remaining
+      1 transmit B2B credit remaining
+      1 low priority transmit B2B credit remaining
+fc3/22
+    5 minutes input rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    5 minutes output rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    1 frames input, 128 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 128 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors, 0 CRC
+      0 unknown class, 0 too long, 0 too short
+    1 frames output, 128 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 128 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors
+    0 input OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 output OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 link failures, 0 sync losses, 0 signal losses
+     1 transmit B2B credit transitions from zero
+     3 receive B2B credit transitions from zero
+      1 receive B2B credit remaining
+      1 transmit B2B credit remaining
+      1 low priority transmit B2B credit remaining
+fc3/23
+    5 minutes input rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    5 minutes output rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    1 frames input, 120 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 120 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors, 0 CRC
+      0 unknown class, 0 too long, 0 too short
+    1 frames output, 120 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 120 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors
+    0 input OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 output OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 link failures, 0 sync losses, 0 signal losses
+     1 transmit B2B credit transitions from zero
+     3 receive B2B credit transitions from zero
+      1 receive B2B credit remaining
+      1 transmit B2B credit remaining
+      1 low priority transmit B2B credit remaining
+fc3/24
+    5 minutes input rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    5 minutes output rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    1 frames input, 228 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 228 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors, 0 CRC
+      0 unknown class, 0 too long, 0 too short
+    1 frames output, 228 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 228 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors
+    0 input OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 output OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 link failures, 0 sync losses, 0 signal losses
+     1 transmit B2B credit transitions from zero
+     3 receive B2B credit transitions from zero
+      1 receive B2B credit remaining
+      1 transmit B2B credit remaining
+      1 low priority transmit B2B credit remaining
+fc9/1
+    5 minutes input rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    5 minutes output rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    1 frames input, 116 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 116 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors, 0 CRC
+      0 unknown class, 0 too long, 0 too short
+    1 frames output, 116 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 116 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors
+    0 input OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 output OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 link failures, 0 sync losses, 0 signal losses
+     1 transmit B2B credit transitions from zero
+     3 receive B2B credit transitions from zero
+      1 receive B2B credit remaining
+      1 transmit B2B credit remaining
+      1 low priority transmit B2B credit remaining
+fc9/2
+    5 minutes input rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    5 minutes output rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    1 frames input, 104 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 104 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors, 0 CRC
+      0 unknown class, 0 too long, 0 too short
+    1 frames output, 104 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 104 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors
+    0 input OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 output OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 link failures, 0 sync losses, 0 signal losses
+     1 transmit B2B credit transitions from zero
+     3 receive B2B credit transitions from zero
+      1 receive B2B credit remaining
+      1 transmit B2B credit remaining
+      1 low priority transmit B2B credit remaining
+fc9/3
+    5 minutes input rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    5 minutes output rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    1 frames input, 112 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 112 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors, 0 CRC
+      0 unknown class, 0 too long, 0 too short
+    1 frames output, 112 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 112 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors
+    0 input OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 output OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 link failures, 0 sync losses, 0 signal losses
+     1 transmit B2B credit transitions from zero
+     3 receive B2B credit transitions from zero
+      1 receive B2B credit remaining
+      1 transmit B2B credit remaining
+      1 low priority transmit B2B credit remaining
+fc9/4
+    5 minutes input rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    5 minutes output rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    1 frames input, 204 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 204 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors, 0 CRC
+      0 unknown class, 0 too long, 0 too short
+    1 frames output, 204 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 204 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors
+    0 input OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 output OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 link failures, 0 sync losses, 0 signal losses
+     1 transmit B2B credit transitions from zero
+     3 receive B2B credit transitions from zero
+      1 receive B2B credit remaining
+      1 transmit B2B credit remaining
+      1 low priority transmit B2B credit remaining
+fc9/5
+    5 minutes input rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    5 minutes output rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    1 frames input, 140 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 140 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors, 0 CRC
+      0 unknown class, 0 too long, 0 too short
+    1 frames output, 140 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 140 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors
+    0 input OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 output OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 link failures, 0 sync losses, 0 signal losses
+     1 transmit B2B credit transitions from zero
+     3 receive B2B credit transitions from zero
+      1 receive B2B credit remaining
+      1 transmit B2B credit remaining
+      1 low priority transmit B2B credit remaining
+fc9/6
+    5 minutes input rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    5 minutes output rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    1 frames input, 176 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 176 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors, 0 CRC
+      0 unknown class, 0 too long, 0 too short
+    1 frames output, 176 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 176 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors
+    0 input OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 output OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 link failures, 0 sync losses, 0 signal losses
+     1 transmit B2B credit transitions from zero
+     3 receive B2B credit transitions from zero
+      1 receive B2B credit remaining
+      1 transmit B2B credit remaining
+      1 low priority transmit B2B credit remaining
+fc9/7
+    5 minutes input rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    5 minutes output rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    1 frames input, 228 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 228 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors, 0 CRC
+      0 unknown class, 0 too long, 0 too short
+    1 frames output, 228 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 228 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors
+    0 input OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 output OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 link failures, 0 sync losses, 0 signal losses
+     1 transmit B2B credit transitions from zero
+     3 receive B2B credit transitions from zero
+      1 receive B2B credit remaining
+      1 transmit B2B credit remaining
+      1 low priority transmit B2B credit remaining
+fc9/8
+    5 minutes input rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    5 minutes output rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    1 frames input, 104 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 104 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors, 0 CRC
+      0 unknown class, 0 too long, 0 too short
+    1 frames output, 104 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 104 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors
+    0 input OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 output OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 link failures, 0 sync losses, 0 signal losses
+     1 transmit B2B credit transitions from zero
+     3 receive B2B credit transitions from zero
+      1 receive B2B credit remaining
+      1 transmit B2B credit remaining
+      1 low priority transmit B2B credit remaining
+fc9/9
+    5 minutes input rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    5 minutes output rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    1 frames input, 172 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 172 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors, 0 CRC
+      0 unknown class, 0 too long, 0 too short
+    1 frames output, 172 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 172 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors
+    0 input OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 output OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 link failures, 0 sync losses, 0 signal losses
+     1 transmit B2B credit transitions from zero
+     3 receive B2B credit transitions from zero
+      1 receive B2B credit remaining
+      1 transmit B2B credit remaining
+      1 low priority transmit B2B credit remaining
+fc9/10
+    5 minutes input rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    5 minutes output rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    1 frames input, 160 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 160 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors, 0 CRC
+      0 unknown class, 0 too long, 0 too short
+    1 frames output, 160 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 160 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors
+    0 input OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 output OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 link failures, 0 sync losses, 0 signal losses
+     1 transmit B2B credit transitions from zero
+     3 receive B2B credit transitions from zero
+      1 receive B2B credit remaining
+      1 transmit B2B credit remaining
+      1 low priority transmit B2B credit remaining
+fc9/11
+    5 minutes input rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    5 minutes output rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    1 frames input, 228 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 228 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors, 0 CRC
+      0 unknown class, 0 too long, 0 too short
+    1 frames output, 228 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 228 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors
+    0 input OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 output OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 link failures, 0 sync losses, 0 signal losses
+     1 transmit B2B credit transitions from zero
+     3 receive B2B credit transitions from zero
+      1 receive B2B credit remaining
+      1 transmit B2B credit remaining
+      1 low priority transmit B2B credit remaining
+fc9/12
+    5 minutes input rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    5 minutes output rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    1 frames input, 160 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 160 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors, 0 CRC
+      0 unknown class, 0 too long, 0 too short
+    1 frames output, 160 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 160 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors
+    0 input OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 output OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 link failures, 0 sync losses, 0 signal losses
+     1 transmit B2B credit transitions from zero
+     3 receive B2B credit transitions from zero
+      1 receive B2B credit remaining
+      1 transmit B2B credit remaining
+      1 low priority transmit B2B credit remaining
+fc9/13
+    5 minutes input rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    5 minutes output rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    1 frames input, 128 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 128 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors, 0 CRC
+      0 unknown class, 0 too long, 0 too short
+    1 frames output, 128 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 128 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors
+    0 input OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 output OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 link failures, 0 sync losses, 0 signal losses
+     1 transmit B2B credit transitions from zero
+     3 receive B2B credit transitions from zero
+      1 receive B2B credit remaining
+      1 transmit B2B credit remaining
+      1 low priority transmit B2B credit remaining
+fc9/14
+    5 minutes input rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    5 minutes output rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    1 frames input, 224 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 224 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors, 0 CRC
+      0 unknown class, 0 too long, 0 too short
+    1 frames output, 224 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 224 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors
+    0 input OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 output OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 link failures, 0 sync losses, 0 signal losses
+     1 transmit B2B credit transitions from zero
+     3 receive B2B credit transitions from zero
+      1 receive B2B credit remaining
+      1 transmit B2B credit remaining
+      1 low priority transmit B2B credit remaining
+fc9/15
+    5 minutes input rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    5 minutes output rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    1 frames input, 160 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 160 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors, 0 CRC
+      0 unknown class, 0 too long, 0 too short
+    1 frames output, 160 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 160 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors
+    0 input OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 output OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 link failures, 0 sync losses, 0 signal losses
+     1 transmit B2B credit transitions from zero
+     3 receive B2B credit transitions from zero
+      1 receive B2B credit remaining
+      1 transmit B2B credit remaining
+      1 low priority transmit B2B credit remaining
+fc9/16
+    5 minutes input rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    5 minutes output rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    1 frames input, 228 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 228 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors, 0 CRC
+      0 unknown class, 0 too long, 0 too short
+    1 frames output, 228 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 228 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors
+    0 input OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 output OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 link failures, 0 sync losses, 0 signal losses
+     1 transmit B2B credit transitions from zero
+     3 receive B2B credit transitions from zero
+      1 receive B2B credit remaining
+      1 transmit B2B credit remaining
+      1 low priority transmit B2B credit remaining
+fc9/17
+    5 minutes input rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    5 minutes output rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    1 frames input, 196 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 196 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors, 0 CRC
+      0 unknown class, 0 too long, 0 too short
+    1 frames output, 196 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 196 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors
+    0 input OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 output OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 link failures, 0 sync losses, 0 signal losses
+     1 transmit B2B credit transitions from zero
+     3 receive B2B credit transitions from zero
+      1 receive B2B credit remaining
+      1 transmit B2B credit remaining
+      1 low priority transmit B2B credit remaining
+fc9/18
+    5 minutes input rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    5 minutes output rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    1 frames input, 104 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 104 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors, 0 CRC
+      0 unknown class, 0 too long, 0 too short
+    1 frames output, 104 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 104 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors
+    0 input OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 output OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 link failures, 0 sync losses, 0 signal losses
+     1 transmit B2B credit transitions from zero
+     3 receive B2B credit transitions from zero
+      1 receive B2B credit remaining
+      1 transmit B2B credit remaining
+      1 low priority transmit B2B credit remaining
+GigabitEthernet2/1
+
+    5 minutes input rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    5 minutes output rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    0 packets input, 0 bytes
+      0 multicast frames, 0 broadcast frames
+      0 errors, 0 queue drops, 0 if-down drops, 0 RED drops
+      0 bad ether type drop, 0 bad protocol drops
+    0 packets output, 0 bytes, 0 underruns
+      0 multicast, 0 broadcast
+      0 errors, 0 collisions, 0 arp drops, 0 if-down drops
+GigabitEthernet2/2
+
+    5 minutes input rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    5 minutes output rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    0 packets input, 0 bytes
+      0 multicast frames, 0 broadcast frames
+      0 errors, 0 queue drops, 0 if-down drops, 0 RED drops
+      0 bad ether type drop, 0 bad protocol drops
+    0 packets output, 0 bytes, 0 underruns
+      0 multicast, 0 broadcast
+      0 errors, 0 collisions, 0 arp drops, 0 if-down drops
+GigabitEthernet2/3
+
+    5 minutes input rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    5 minutes output rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    0 packets input, 0 bytes
+      0 multicast frames, 0 broadcast frames
+      0 errors, 0 queue drops, 0 if-down drops, 0 RED drops
+      0 bad ether type drop, 0 bad protocol drops
+    0 packets output, 0 bytes, 0 underruns
+      0 multicast, 0 broadcast
+      0 errors, 0 collisions, 0 arp drops, 0 if-down drops
+GigabitEthernet2/4
+
+    5 minutes input rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    5 minutes output rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    0 packets input, 0 bytes
+      0 multicast frames, 0 broadcast frames
+      0 errors, 0 queue drops, 0 if-down drops, 0 RED drops
+      0 bad ether type drop, 0 bad protocol drops
+    0 packets output, 0 bytes, 0 underruns
+      0 multicast, 0 broadcast
+      0 errors, 0 collisions, 0 arp drops, 0 if-down drops
+GigabitEthernet9/1
+
+    5 minutes input rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    5 minutes output rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    0 packets input, 0 bytes
+      0 multicast frames, 0 broadcast frames
+      0 errors, 0 queue drops, 0 if-down drops, 0 RED drops
+      0 bad ether type drop, 0 bad protocol drops
+    0 packets output, 0 bytes, 0 underruns
+      0 multicast, 0 broadcast
+      0 errors, 0 collisions, 0 arp drops, 0 if-down drops
+GigabitEthernet9/2
+
+    5 minutes input rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    5 minutes output rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    0 packets input, 0 bytes
+      0 multicast frames, 0 broadcast frames
+      0 errors, 0 queue drops, 0 if-down drops, 0 RED drops
+      0 bad ether type drop, 0 bad protocol drops
+    0 packets output, 0 bytes, 0 underruns
+      0 multicast, 0 broadcast
+      0 errors, 0 collisions, 0 arp drops, 0 if-down drops
+GigabitEthernet9/3
+
+    5 minutes input rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    5 minutes output rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    0 packets input, 0 bytes
+      0 multicast frames, 0 broadcast frames
+      0 errors, 0 queue drops, 0 if-down drops, 0 RED drops
+      0 bad ether type drop, 0 bad protocol drops
+    0 packets output, 0 bytes, 0 underruns
+      0 multicast, 0 broadcast
+      0 errors, 0 collisions, 0 arp drops, 0 if-down drops
+GigabitEthernet9/4
+
+    5 minutes input rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    5 minutes output rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    0 packets input, 0 bytes
+      0 multicast frames, 0 broadcast frames
+      0 errors, 0 queue drops, 0 if-down drops, 0 RED drops
+      0 bad ether type drop, 0 bad protocol drops
+    0 packets output, 0 bytes, 0 underruns
+      0 multicast, 0 broadcast
+      0 errors, 0 collisions, 0 arp drops, 0 if-down drops
+fcip120 
+    TCP Connection Information
+      0 Active TCP connections
+      0 Attempts for active connections, 0 close of connections
+    5 minutes input rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    5 minutes output rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+      0 frames input, 0 bytes
+         0 Class F frames input, 0 bytes
+         0 Class 2/3 frames input, 0 bytes
+         0 Reass frames
+         0 Error frames timestamp error 0
+      0 frames output, 0 bytes
+         0 Class F frames output, 0 bytes
+         0 Class 2/3 frames output, 0 bytes
+         0 Error frames
+fcip130 
+    TCP Connection Information
+      0 Active TCP connections
+      0 Attempts for active connections, 0 close of connections
+    5 minutes input rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    5 minutes output rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+      0 frames input, 0 bytes
+         0 Class F frames input, 0 bytes
+         0 Class 2/3 frames input, 0 bytes
+         0 Reass frames
+         0 Error frames timestamp error 0
+      0 frames output, 0 bytes
+         0 Class F frames output, 0 bytes
+         0 Class 2/3 frames output, 0 bytes
+         0 Error frames
+mgmt0
+    10247 packets input, 1124121 bytes
+      11802 multicast frames, 0 compressed
+      0 input errors, 0 frame
+      0 overrun, 0 fifo
+    9530 packets output, 1934949 bytes
+      0 underruns, 0 output errors
+      0 collisions, 0 fifo
+      0 carrier errors
+GigabitEthernet2/1 is down (SFP not present)
+    Hardware is GigabitEthernet, address is 000d.ec76.459c
+    Internet address is 10.1.1.1/24
+    MTU 1500  bytes
+    Port mode is IPS
+    Beacon is turned off
+    Auto-Negotiation is turned on
+GigabitEthernet2/2 is down (SFP not present)
+    Hardware is GigabitEthernet, address is 000d.ec76.459d
+    Internet address is 10.1.1.4/24
+    MTU 1500  bytes
+    Port mode is IPS
+    Beacon is turned off
+    Auto-Negotiation is turned on
+GigabitEthernet2/3 is down (SFP not present)
+    Hardware is GigabitEthernet, address is 000d.ec76.459e
+    MTU 1500  bytes
+    Port mode is IPS
+    Beacon is turned off
+    Auto-Negotiation is turned on
+GigabitEthernet2/4 is down (SFP not present)
+    Hardware is GigabitEthernet, address is 000d.ec76.459f
+    MTU 1500  bytes
+    Port mode is IPS
+    Beacon is turned off
+    Auto-Negotiation is turned on
+GigabitEthernet9/1 is down (SFP not present)
+    Hardware is GigabitEthernet, address is 885a.92d6.0fe4
+    MTU 1500  bytes
+    Port mode is IPS
+    Beacon is turned off
+    Auto-Negotiation is turned on
+GigabitEthernet9/2 is down (SFP not present)
+    Hardware is GigabitEthernet, address is 885a.92d6.0fe5
+    MTU 1500  bytes
+    Port mode is IPS
+    Beacon is turned off
+    Auto-Negotiation is turned on
+GigabitEthernet9/3 is down (SFP not present)
+    Hardware is GigabitEthernet, address is 885a.92d6.0fe6
+    MTU 1500  bytes
+    Port mode is IPS
+    Beacon is turned off
+    Auto-Negotiation is turned on
+GigabitEthernet9/4 is down (SFP not present)
+    Hardware is GigabitEthernet, address is 885a.92d6.0fe7
+    MTU 1500  bytes
+    Port mode is IPS
+    Beacon is turned off
+    Auto-Negotiation is turned on
+GigabitEthernet2/1 is down (SFP not present)
+    Hardware is GigabitEthernet, address is 000d.ec76.459c
+    Internet address is 10.1.1.1/24
+    MTU 1500  bytes
+    Port mode is IPS
+    Beacon is turned off
+    Auto-Negotiation is turned on
+GigabitEthernet2/2 is down (SFP not present)
+    Hardware is GigabitEthernet, address is 000d.ec76.459d
+    Internet address is 10.1.1.4/24
+    MTU 1500  bytes
+    Port mode is IPS
+    Beacon is turned off
+    Auto-Negotiation is turned on
+GigabitEthernet2/3 is down (SFP not present)
+    Hardware is GigabitEthernet, address is 000d.ec76.459e
+    MTU 1500  bytes
+    Port mode is IPS
+    Beacon is turned off
+    Auto-Negotiation is turned on
+GigabitEthernet2/4 is down (SFP not present)
+    Hardware is GigabitEthernet, address is 000d.ec76.459f
+    MTU 1500  bytes
+    Port mode is IPS
+    Beacon is turned off
+    Auto-Negotiation is turned on
+GigabitEthernet9/1 is down (SFP not present)
+    Hardware is GigabitEthernet, address is 885a.92d6.0fe4
+    MTU 1500  bytes
+    Port mode is IPS
+    Beacon is turned off
+    Auto-Negotiation is turned on
+GigabitEthernet9/2 is down (SFP not present)
+    Hardware is GigabitEthernet, address is 885a.92d6.0fe5
+    MTU 1500  bytes
+    Port mode is IPS
+    Beacon is turned off
+    Auto-Negotiation is turned on
+GigabitEthernet9/3 is down (SFP not present)
+    Hardware is GigabitEthernet, address is 885a.92d6.0fe6
+    MTU 1500  bytes
+    Port mode is IPS
+    Beacon is turned off
+    Auto-Negotiation is turned on
+GigabitEthernet9/4 is down (SFP not present)
+    Hardware is GigabitEthernet, address is 885a.92d6.0fe7
+    MTU 1500  bytes
+    Port mode is IPS
+    Beacon is turned off
+    Auto-Negotiation is turned on
+GigabitEthernet2/1 is down (SFP not present)
+    Hardware is GigabitEthernet, address is 000d.ec76.459c
+    Internet address is 10.1.1.1/24
+    MTU 1500  bytes
+    Port mode is IPS
+    Beacon is turned off
+    Auto-Negotiation is turned on
+GigabitEthernet2/2 is down (SFP not present)
+    Hardware is GigabitEthernet, address is 000d.ec76.459d
+    Internet address is 10.1.1.4/24
+    MTU 1500  bytes
+    Port mode is IPS
+    Beacon is turned off
+    Auto-Negotiation is turned on
+GigabitEthernet2/3 is down (SFP not present)
+    Hardware is GigabitEthernet, address is 000d.ec76.459e
+    MTU 1500  bytes
+    Port mode is IPS
+    Beacon is turned off
+    Auto-Negotiation is turned on
+GigabitEthernet2/4 is down (SFP not present)
+    Hardware is GigabitEthernet, address is 000d.ec76.459f
+    MTU 1500  bytes
+    Port mode is IPS
+    Beacon is turned off
+    Auto-Negotiation is turned on
+GigabitEthernet9/1 is down (SFP not present)
+    Hardware is GigabitEthernet, address is 885a.92d6.0fe4
+    MTU 1500  bytes
+    Port mode is IPS
+    Beacon is turned off
+    Auto-Negotiation is turned on
+GigabitEthernet9/2 is down (SFP not present)
+    Hardware is GigabitEthernet, address is 885a.92d6.0fe5
+    MTU 1500  bytes
+    Port mode is IPS
+    Beacon is turned off
+    Auto-Negotiation is turned on
+GigabitEthernet9/3 is down (SFP not present)
+    Hardware is GigabitEthernet, address is 885a.92d6.0fe6
+    MTU 1500  bytes
+    Port mode is IPS
+    Beacon is turned off
+    Auto-Negotiation is turned on
+GigabitEthernet9/4 is down (SFP not present)
+    Hardware is GigabitEthernet, address is 885a.92d6.0fe7
+    MTU 1500  bytes
+    Port mode is IPS
+    Beacon is turned off
+    Auto-Negotiation is turned on
+port-channel 1
+    5 minutes input rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    5 minutes output rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    1 frames input, 148 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 148 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors, 0 CRC
+      0 unknown class, 0 too long, 0 too short
+    1 frames output, 148 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 148 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors
+    0 input OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 output OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 link failures, 0 sync losses, 0 signal losses
+     2 transmit B2B credit transitions from zero
+     0 receive B2B credit transitions from zero
+port-channel 2
+    5 minutes input rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    5 minutes output rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    1 frames input, 132 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 132 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors, 0 CRC
+      0 unknown class, 0 too long, 0 too short
+    1 frames output, 132 bytes
+      0 class-2 frames, 0 bytes
+      1 class-3 frames, 132 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors
+    0 input OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 output OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 link failures, 0 sync losses, 0 signal losses
+     2 transmit B2B credit transitions from zero
+     0 receive B2B credit transitions from zero
+port-channel 100
+    5 minutes input rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    5 minutes output rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    2 frames input, 420 bytes
+      0 class-2 frames, 0 bytes
+      2 class-3 frames, 420 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors, 0 CRC
+      0 unknown class, 0 too long, 0 too short
+    2 frames output, 420 bytes
+      0 class-2 frames, 0 bytes
+      2 class-3 frames, 420 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors
+    0 input OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 output OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 link failures, 0 sync losses, 0 signal losses
+     4 transmit B2B credit transitions from zero
+     0 receive B2B credit transitions from zero
+port-channel 200
+    5 minutes input rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    5 minutes output rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    7648 frames input, 573660 bytes
+      0 class-2 frames, 0 bytes
+      26 class-3 frames, 2192 bytes
+      7622 class-f frames, 571468 bytes
+      0 discards, 0 errors, 0 CRC
+      0 unknown class, 0 too long, 0 too short
+    7646 frames output, 668724 bytes
+      0 class-2 frames, 0 bytes
+      26 class-3 frames, 2264 bytes
+      7620 class-f frames, 666460 bytes
+      0 discards, 0 errors
+    1 input OLS, 2 LRR, 3 NOS, 0 loop inits
+    5 output OLS, 4 LRR, 3 NOS, 0 loop inits
+    1 link failures, 0 sync losses, 0 signal losses
+     12 transmit B2B credit transitions from zero
+     7 receive B2B credit transitions from zero
+mds9513#

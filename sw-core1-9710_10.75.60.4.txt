@@ -1,30 +1,30 @@
- show interface counters
-
+ show interface counters
 fc1/1
-    5 minutes input rate 352 bits/sec, 44 bytes/sec, 0 frames/sec
-    5 minutes output rate 288 bits/sec, 36 bytes/sec, 0 frames/sec
-    480849 frames input, 35793364 bytes
+    5 minutes input rate 288 bits/sec, 36 bytes/sec, 0 frames/sec
+    5 minutes output rate 160 bits/sec, 20 bytes/sec, 0 frames/sec
+    243632 frames input, 17813840 bytes
       0 discards, 0 errors, 0 CRC/FCS
       0 unknown class, 0 too long, 0 too short
-    480932 frames output, 27649100 bytes
+    243653 frames output, 14950096 bytes
       0 discards, 0 errors
     0 timeout discards, 0 credit loss
-    3 input OLS, 7 LRR, 0 NOS, 36 loop inits
-    6 output OLS, 1 LRR, 1 NOS, 4 loop inits
-    1 link failures, 0 sync losses, 1 signal losses
-     14 Transmit B2B credit transitions to zero
-     12 Receive B2B credit transitions to zero
+    1 input OLS, 2 LRR, 0 NOS, 11 loop inits
+    1 output OLS, 0 LRR, 0 NOS, 1 loop inits
+    0 link failures, 0 sync losses, 0 signal losses
+     5 Transmit B2B credit transitions to zero
+     3 Receive B2B credit transitions to zero
       0 2.5us TxWait due to lack of transmit credits
       Percentage Tx credits not available for last 1s/1m/1h/72h: 0%/0%/0%/0%
       500 receive B2B credit remaining
       64 transmit B2B credit remaining
-    Last clearing of "show interface" counters : never
+      64 low priority transmit B2B credit remaining
+    Last clearing of "show interface" counters  :never
 fc1/2
     5 minutes input rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
     5 minutes output rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
     4 frames input, 304 bytes
       0 class-2 frames, 0 bytes
-      0 class-3 frames, 304 bytes
+      4 class-3 frames, 304 bytes
       0 class-f frames, 0 bytes
       0 discards, 0 errors, 0 CRC/FCS
       0 unknown class, 0 too long, 0 too short
@@ -43,32 +43,40 @@ fc1/2
       Percentage Tx credits not available for last 1s/1m/1h/72h: 0%/0%/0%/0%
       1 receive B2B credit remaining
       0 transmit B2B credit remaining
-    Last clearing of "show interface" counters : never
+      0 low priority transmit B2B credit remaining
+    Last clearing of "show interface" counters  :never
 fc1/3
-    5 minutes input rate 384 bits/sec, 48 bytes/sec, 0 frames/sec
-    5 minutes output rate 288 bits/sec, 36 bytes/sec, 0 frames/sec
-    487761 frames input, 38954668 bytes
+    5 minutes input rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    5 minutes output rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    229610 frames input, 17983412 bytes
+      0 class-2 frames, 0 bytes
+      144 class-3 frames, 11456 bytes
+      229466 class-f frames, 17971956 bytes
       0 discards, 0 errors, 0 CRC/FCS
       0 unknown class, 0 too long, 0 too short
-    487762 frames output, 29598904 bytes
+    229610 frames output, 14718584 bytes
+      0 class-2 frames, 0 bytes
+      140 class-3 frames, 10640 bytes
+      229470 class-f frames, 14707944 bytes
       0 discards, 0 errors
     0 timeout discards, 0 credit loss
-    2 input OLS, 4 LRR, 0 NOS, 0 loop inits
-    5 output OLS, 4 LRR, 2 NOS, 3 loop inits
-    2 link failures, 0 sync losses, 0 signal losses
+    6 input OLS, 7 LRR, 3 NOS, 0 loop inits
+    4 output OLS, 1 LRR, 4 NOS, 0 loop inits
+    4 link failures, 2 sync losses, 1 signal losses
      14 Transmit B2B credit transitions to zero
-     11 Receive B2B credit transitions to zero
+     8 Receive B2B credit transitions to zero
       0 2.5us TxWait due to lack of transmit credits
       Percentage Tx credits not available for last 1s/1m/1h/72h: 0%/0%/0%/0%
-      500 receive B2B credit remaining
-      500 transmit B2B credit remaining
-    Last clearing of "show interface" counters : never
+      1 receive B2B credit remaining
+      0 transmit B2B credit remaining
+      0 low priority transmit B2B credit remaining
+    Last clearing of "show interface" counters  :never
 fc1/4
     5 minutes input rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
     5 minutes output rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
     4 frames input, 304 bytes
       0 class-2 frames, 0 bytes
-      0 class-3 frames, 304 bytes
+      4 class-3 frames, 304 bytes
       0 class-f frames, 0 bytes
       0 discards, 0 errors, 0 CRC/FCS
       0 unknown class, 0 too long, 0 too short
@@ -87,13 +95,14 @@ fc1/4
       Percentage Tx credits not available for last 1s/1m/1h/72h: 0%/0%/0%/0%
       1 receive B2B credit remaining
       0 transmit B2B credit remaining
-    Last clearing of "show interface" counters : never
+      0 low priority transmit B2B credit remaining
+    Last clearing of "show interface" counters  :never
 fc1/5
     5 minutes input rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
     5 minutes output rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
     4 frames input, 304 bytes
       0 class-2 frames, 0 bytes
-      0 class-3 frames, 304 bytes
+      4 class-3 frames, 304 bytes
       0 class-f frames, 0 bytes
       0 discards, 0 errors, 0 CRC/FCS
       0 unknown class, 0 too long, 0 too short
@@ -112,13 +121,14 @@ fc1/5
       Percentage Tx credits not available for last 1s/1m/1h/72h: 0%/0%/0%/0%
       1 receive B2B credit remaining
       0 transmit B2B credit remaining
-    Last clearing of "show interface" counters : never
+      0 low priority transmit B2B credit remaining
+    Last clearing of "show interface" counters  :never
 fc1/6
     5 minutes input rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
     5 minutes output rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
     4 frames input, 304 bytes
       0 class-2 frames, 0 bytes
-      0 class-3 frames, 304 bytes
+      4 class-3 frames, 304 bytes
       0 class-f frames, 0 bytes
       0 discards, 0 errors, 0 CRC/FCS
       0 unknown class, 0 too long, 0 too short
@@ -137,13 +147,14 @@ fc1/6
       Percentage Tx credits not available for last 1s/1m/1h/72h: 0%/0%/0%/0%
       1 receive B2B credit remaining
       0 transmit B2B credit remaining
-    Last clearing of "show interface" counters : never
+      0 low priority transmit B2B credit remaining
+    Last clearing of "show interface" counters  :never
 fc1/7
     5 minutes input rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
     5 minutes output rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
     4 frames input, 304 bytes
       0 class-2 frames, 0 bytes
-      0 class-3 frames, 304 bytes
+      4 class-3 frames, 304 bytes
       0 class-f frames, 0 bytes
       0 discards, 0 errors, 0 CRC/FCS
       0 unknown class, 0 too long, 0 too short
@@ -162,13 +173,14 @@ fc1/7
       Percentage Tx credits not available for last 1s/1m/1h/72h: 0%/0%/0%/0%
       1 receive B2B credit remaining
       0 transmit B2B credit remaining
-    Last clearing of "show interface" counters : never
+      0 low priority transmit B2B credit remaining
+    Last clearing of "show interface" counters  :never
 fc1/8
     5 minutes input rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
     5 minutes output rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
     4 frames input, 304 bytes
       0 class-2 frames, 0 bytes
-      0 class-3 frames, 304 bytes
+      4 class-3 frames, 304 bytes
       0 class-f frames, 0 bytes
       0 discards, 0 errors, 0 CRC/FCS
       0 unknown class, 0 too long, 0 too short
@@ -187,13 +199,14 @@ fc1/8
       Percentage Tx credits not available for last 1s/1m/1h/72h: 0%/0%/0%/0%
       1 receive B2B credit remaining
       0 transmit B2B credit remaining
-    Last clearing of "show interface" counters : never
+      0 low priority transmit B2B credit remaining
+    Last clearing of "show interface" counters  :never
 fc1/9
     5 minutes input rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
     5 minutes output rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
     4 frames input, 304 bytes
       0 class-2 frames, 0 bytes
-      0 class-3 frames, 304 bytes
+      4 class-3 frames, 304 bytes
       0 class-f frames, 0 bytes
       0 discards, 0 errors, 0 CRC/FCS
       0 unknown class, 0 too long, 0 too short
@@ -212,13 +225,14 @@ fc1/9
       Percentage Tx credits not available for last 1s/1m/1h/72h: 0%/0%/0%/0%
       1 receive B2B credit remaining
       0 transmit B2B credit remaining
-    Last clearing of "show interface" counters : never
+      0 low priority transmit B2B credit remaining
+    Last clearing of "show interface" counters  :never
 fc1/10
     5 minutes input rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
     5 minutes output rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
     4 frames input, 304 bytes
       0 class-2 frames, 0 bytes
-      0 class-3 frames, 304 bytes
+      4 class-3 frames, 304 bytes
       0 class-f frames, 0 bytes
       0 discards, 0 errors, 0 CRC/FCS
       0 unknown class, 0 too long, 0 too short
@@ -237,38 +251,40 @@ fc1/10
       Percentage Tx credits not available for last 1s/1m/1h/72h: 0%/0%/0%/0%
       1 receive B2B credit remaining
       0 transmit B2B credit remaining
-    Last clearing of "show interface" counters : never
+      0 low priority transmit B2B credit remaining
+    Last clearing of "show interface" counters  :never
 fc1/11
     5 minutes input rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
     5 minutes output rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
-    673 frames input, 64492 bytes
+    4 frames input, 304 bytes
       0 class-2 frames, 0 bytes
-      0 class-3 frames, 464 bytes
-      665 class-f frames, 64028 bytes
+      4 class-3 frames, 304 bytes
+      0 class-f frames, 0 bytes
       0 discards, 0 errors, 0 CRC/FCS
       0 unknown class, 0 too long, 0 too short
-    3978 frames output, 188312 bytes
+    4 frames output, 304 bytes
       0 class-2 frames, 0 bytes
-      3310 class-3 frames, 132544 bytes
-      668 class-f frames, 55768 bytes
+      4 class-3 frames, 304 bytes
+      0 class-f frames, 0 bytes
       0 discards, 0 errors
     0 timeout discards, 0 credit loss
-    2 input OLS, 10 LRR, 440 NOS, 1232 loop inits
-    159 output OLS, 6 LRR, 485 NOS, 60 loop inits
-    8 link failures, 18 sync losses, 5 signal losses
-     102 Transmit B2B credit transitions to zero
-     131 Receive B2B credit transitions to zero
+    0 input OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 output OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 link failures, 0 sync losses, 0 signal losses
+     2 Transmit B2B credit transitions to zero
+     0 Receive B2B credit transitions to zero
       0 2.5us TxWait due to lack of transmit credits
       Percentage Tx credits not available for last 1s/1m/1h/72h: 0%/0%/0%/0%
       1 receive B2B credit remaining
       0 transmit B2B credit remaining
-    Last clearing of "show interface" counters : never
+      0 low priority transmit B2B credit remaining
+    Last clearing of "show interface" counters  :never
 fc1/12
     5 minutes input rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
     5 minutes output rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
     4 frames input, 304 bytes
       0 class-2 frames, 0 bytes
-      0 class-3 frames, 304 bytes
+      4 class-3 frames, 304 bytes
       0 class-f frames, 0 bytes
       0 discards, 0 errors, 0 CRC/FCS
       0 unknown class, 0 too long, 0 too short
@@ -281,19 +297,20 @@ fc1/12
     0 input OLS, 0 LRR, 0 NOS, 0 loop inits
     0 output OLS, 0 LRR, 0 NOS, 0 loop inits
     0 link failures, 0 sync losses, 0 signal losses
-     213 Transmit B2B credit transitions to zero
+     2 Transmit B2B credit transitions to zero
      0 Receive B2B credit transitions to zero
       0 2.5us TxWait due to lack of transmit credits
       Percentage Tx credits not available for last 1s/1m/1h/72h: 0%/0%/0%/0%
       1 receive B2B credit remaining
       0 transmit B2B credit remaining
-    Last clearing of "show interface" counters : never
+      0 low priority transmit B2B credit remaining
+    Last clearing of "show interface" counters  :never
 fc1/13
     5 minutes input rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
     5 minutes output rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
     4 frames input, 304 bytes
       0 class-2 frames, 0 bytes
-      0 class-3 frames, 304 bytes
+      4 class-3 frames, 304 bytes
       0 class-f frames, 0 bytes
       0 discards, 0 errors, 0 CRC/FCS
       0 unknown class, 0 too long, 0 too short
@@ -312,13 +329,14 @@ fc1/13
       Percentage Tx credits not available for last 1s/1m/1h/72h: 0%/0%/0%/0%
       1 receive B2B credit remaining
       0 transmit B2B credit remaining
-    Last clearing of "show interface" counters : never
+      0 low priority transmit B2B credit remaining
+    Last clearing of "show interface" counters  :never
 fc1/14
     5 minutes input rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
     5 minutes output rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
     4 frames input, 304 bytes
       0 class-2 frames, 0 bytes
-      0 class-3 frames, 304 bytes
+      4 class-3 frames, 304 bytes
       0 class-f frames, 0 bytes
       0 discards, 0 errors, 0 CRC/FCS
       0 unknown class, 0 too long, 0 too short
@@ -337,13 +355,14 @@ fc1/14
       Percentage Tx credits not available for last 1s/1m/1h/72h: 0%/0%/0%/0%
       1 receive B2B credit remaining
       0 transmit B2B credit remaining
-    Last clearing of "show interface" counters : never
+      0 low priority transmit B2B credit remaining
+    Last clearing of "show interface" counters  :never
 fc1/15
     5 minutes input rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
     5 minutes output rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
     4 frames input, 304 bytes
       0 class-2 frames, 0 bytes
-      0 class-3 frames, 304 bytes
+      4 class-3 frames, 304 bytes
       0 class-f frames, 0 bytes
       0 discards, 0 errors, 0 CRC/FCS
       0 unknown class, 0 too long, 0 too short
@@ -362,13 +381,14 @@ fc1/15
       Percentage Tx credits not available for last 1s/1m/1h/72h: 0%/0%/0%/0%
       1 receive B2B credit remaining
       0 transmit B2B credit remaining
-    Last clearing of "show interface" counters : never
+      0 low priority transmit B2B credit remaining
+    Last clearing of "show interface" counters  :never
 fc1/16
     5 minutes input rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
     5 minutes output rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
     4 frames input, 304 bytes
       0 class-2 frames, 0 bytes
-      0 class-3 frames, 304 bytes
+      4 class-3 frames, 304 bytes
       0 class-f frames, 0 bytes
       0 discards, 0 errors, 0 CRC/FCS
       0 unknown class, 0 too long, 0 too short
@@ -387,13 +407,14 @@ fc1/16
       Percentage Tx credits not available for last 1s/1m/1h/72h: 0%/0%/0%/0%
       1 receive B2B credit remaining
       0 transmit B2B credit remaining
-    Last clearing of "show interface" counters : never
+      0 low priority transmit B2B credit remaining
+    Last clearing of "show interface" counters  :never
 fc1/17
     5 minutes input rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
     5 minutes output rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
     4 frames input, 304 bytes
       0 class-2 frames, 0 bytes
-      0 class-3 frames, 304 bytes
+      4 class-3 frames, 304 bytes
       0 class-f frames, 0 bytes
       0 discards, 0 errors, 0 CRC/FCS
       0 unknown class, 0 too long, 0 too short
@@ -412,13 +433,14 @@ fc1/17
       Percentage Tx credits not available for last 1s/1m/1h/72h: 0%/0%/0%/0%
       1 receive B2B credit remaining
       0 transmit B2B credit remaining
-    Last clearing of "show interface" counters : never
+      0 low priority transmit B2B credit remaining
+    Last clearing of "show interface" counters  :never
 fc1/18
     5 minutes input rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
     5 minutes output rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
     4 frames input, 304 bytes
       0 class-2 frames, 0 bytes
-      0 class-3 frames, 304 bytes
+      4 class-3 frames, 304 bytes
       0 class-f frames, 0 bytes
       0 discards, 0 errors, 0 CRC/FCS
       0 unknown class, 0 too long, 0 too short
@@ -437,13 +459,14 @@ fc1/18
       Percentage Tx credits not available for last 1s/1m/1h/72h: 0%/0%/0%/0%
       1 receive B2B credit remaining
       0 transmit B2B credit remaining
-    Last clearing of "show interface" counters : never
+      0 low priority transmit B2B credit remaining
+    Last clearing of "show interface" counters  :never
 fc1/19
     5 minutes input rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
     5 minutes output rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
     4 frames input, 304 bytes
       0 class-2 frames, 0 bytes
-      0 class-3 frames, 304 bytes
+      4 class-3 frames, 304 bytes
       0 class-f frames, 0 bytes
       0 discards, 0 errors, 0 CRC/FCS
       0 unknown class, 0 too long, 0 too short
@@ -462,13 +485,14 @@ fc1/19
       Percentage Tx credits not available for last 1s/1m/1h/72h: 0%/0%/0%/0%
       1 receive B2B credit remaining
       0 transmit B2B credit remaining
-    Last clearing of "show interface" counters : never
+      0 low priority transmit B2B credit remaining
+    Last clearing of "show interface" counters  :never
 fc1/20
     5 minutes input rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
     5 minutes output rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
     4 frames input, 304 bytes
       0 class-2 frames, 0 bytes
-      0 class-3 frames, 304 bytes
+      4 class-3 frames, 304 bytes
       0 class-f frames, 0 bytes
       0 discards, 0 errors, 0 CRC/FCS
       0 unknown class, 0 too long, 0 too short
@@ -487,13 +511,14 @@ fc1/20
       Percentage Tx credits not available for last 1s/1m/1h/72h: 0%/0%/0%/0%
       1 receive B2B credit remaining
       0 transmit B2B credit remaining
-    Last clearing of "show interface" counters : never
+      0 low priority transmit B2B credit remaining
+    Last clearing of "show interface" counters  :never
 fc1/21
     5 minutes input rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
     5 minutes output rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
     4 frames input, 304 bytes
       0 class-2 frames, 0 bytes
-      0 class-3 frames, 304 bytes
+      4 class-3 frames, 304 bytes
       0 class-f frames, 0 bytes
       0 discards, 0 errors, 0 CRC/FCS
       0 unknown class, 0 too long, 0 too short
@@ -512,13 +537,14 @@ fc1/21
       Percentage Tx credits not available for last 1s/1m/1h/72h: 0%/0%/0%/0%
       1 receive B2B credit remaining
       0 transmit B2B credit remaining
-    Last clearing of "show interface" counters : never
+      0 low priority transmit B2B credit remaining
+    Last clearing of "show interface" counters  :never
 fc1/22
     5 minutes input rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
     5 minutes output rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
     4 frames input, 304 bytes
       0 class-2 frames, 0 bytes
-      0 class-3 frames, 304 bytes
+      4 class-3 frames, 304 bytes
       0 class-f frames, 0 bytes
       0 discards, 0 errors, 0 CRC/FCS
       0 unknown class, 0 too long, 0 too short
@@ -537,13 +563,14 @@ fc1/22
       Percentage Tx credits not available for last 1s/1m/1h/72h: 0%/0%/0%/0%
       1 receive B2B credit remaining
       0 transmit B2B credit remaining
-    Last clearing of "show interface" counters : never
+      0 low priority transmit B2B credit remaining
+    Last clearing of "show interface" counters  :never
 fc1/23
     5 minutes input rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
     5 minutes output rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
     4 frames input, 304 bytes
       0 class-2 frames, 0 bytes
-      0 class-3 frames, 304 bytes
+      4 class-3 frames, 304 bytes
       0 class-f frames, 0 bytes
       0 discards, 0 errors, 0 CRC/FCS
       0 unknown class, 0 too long, 0 too short
@@ -562,13 +589,14 @@ fc1/23
       Percentage Tx credits not available for last 1s/1m/1h/72h: 0%/0%/0%/0%
       1 receive B2B credit remaining
       0 transmit B2B credit remaining
-    Last clearing of "show interface" counters : never
+      0 low priority transmit B2B credit remaining
+    Last clearing of "show interface" counters  :never
 fc1/24
     5 minutes input rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
     5 minutes output rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
     4 frames input, 304 bytes
       0 class-2 frames, 0 bytes
-      0 class-3 frames, 304 bytes
+      4 class-3 frames, 304 bytes
       0 class-f frames, 0 bytes
       0 discards, 0 errors, 0 CRC/FCS
       0 unknown class, 0 too long, 0 too short
@@ -587,13 +615,14 @@ fc1/24
       Percentage Tx credits not available for last 1s/1m/1h/72h: 0%/0%/0%/0%
       1 receive B2B credit remaining
       0 transmit B2B credit remaining
-    Last clearing of "show interface" counters : never
+      0 low priority transmit B2B credit remaining
+    Last clearing of "show interface" counters  :never
 fc1/25
     5 minutes input rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
     5 minutes output rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
     4 frames input, 304 bytes
       0 class-2 frames, 0 bytes
-      0 class-3 frames, 304 bytes
+      4 class-3 frames, 304 bytes
       0 class-f frames, 0 bytes
       0 discards, 0 errors, 0 CRC/FCS
       0 unknown class, 0 too long, 0 too short
@@ -612,13 +641,14 @@ fc1/25
       Percentage Tx credits not available for last 1s/1m/1h/72h: 0%/0%/0%/0%
       1 receive B2B credit remaining
       0 transmit B2B credit remaining
-    Last clearing of "show interface" counters : never
+      0 low priority transmit B2B credit remaining
+    Last clearing of "show interface" counters  :never
 fc1/26
     5 minutes input rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
     5 minutes output rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
     4 frames input, 304 bytes
       0 class-2 frames, 0 bytes
-      0 class-3 frames, 304 bytes
+      4 class-3 frames, 304 bytes
       0 class-f frames, 0 bytes
       0 discards, 0 errors, 0 CRC/FCS
       0 unknown class, 0 too long, 0 too short
@@ -637,13 +667,14 @@ fc1/26
       Percentage Tx credits not available for last 1s/1m/1h/72h: 0%/0%/0%/0%
       1 receive B2B credit remaining
       0 transmit B2B credit remaining
-    Last clearing of "show interface" counters : never
+      0 low priority transmit B2B credit remaining
+    Last clearing of "show interface" counters  :never
 fc1/27
     5 minutes input rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
     5 minutes output rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
     4 frames input, 304 bytes
       0 class-2 frames, 0 bytes
-      0 class-3 frames, 304 bytes
+      4 class-3 frames, 304 bytes
       0 class-f frames, 0 bytes
       0 discards, 0 errors, 0 CRC/FCS
       0 unknown class, 0 too long, 0 too short
@@ -662,13 +693,14 @@ fc1/27
       Percentage Tx credits not available for last 1s/1m/1h/72h: 0%/0%/0%/0%
       1 receive B2B credit remaining
       0 transmit B2B credit remaining
-    Last clearing of "show interface" counters : never
+      0 low priority transmit B2B credit remaining
+    Last clearing of "show interface" counters  :never
 fc1/28
     5 minutes input rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
     5 minutes output rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
     4 frames input, 304 bytes
       0 class-2 frames, 0 bytes
-      0 class-3 frames, 304 bytes
+      4 class-3 frames, 304 bytes
       0 class-f frames, 0 bytes
       0 discards, 0 errors, 0 CRC/FCS
       0 unknown class, 0 too long, 0 too short
@@ -687,13 +719,14 @@ fc1/28
       Percentage Tx credits not available for last 1s/1m/1h/72h: 0%/0%/0%/0%
       1 receive B2B credit remaining
       0 transmit B2B credit remaining
-    Last clearing of "show interface" counters : never
+      0 low priority transmit B2B credit remaining
+    Last clearing of "show interface" counters  :never
 fc1/29
     5 minutes input rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
     5 minutes output rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
     4 frames input, 304 bytes
       0 class-2 frames, 0 bytes
-      0 class-3 frames, 304 bytes
+      4 class-3 frames, 304 bytes
       0 class-f frames, 0 bytes
       0 discards, 0 errors, 0 CRC/FCS
       0 unknown class, 0 too long, 0 too short
@@ -712,13 +745,14 @@ fc1/29
       Percentage Tx credits not available for last 1s/1m/1h/72h: 0%/0%/0%/0%
       1 receive B2B credit remaining
       0 transmit B2B credit remaining
-    Last clearing of "show interface" counters : never
+      0 low priority transmit B2B credit remaining
+    Last clearing of "show interface" counters  :never
 fc1/30
     5 minutes input rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
     5 minutes output rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
     4 frames input, 304 bytes
       0 class-2 frames, 0 bytes
-      0 class-3 frames, 304 bytes
+      4 class-3 frames, 304 bytes
       0 class-f frames, 0 bytes
       0 discards, 0 errors, 0 CRC/FCS
       0 unknown class, 0 too long, 0 too short
@@ -737,13 +771,14 @@ fc1/30
       Percentage Tx credits not available for last 1s/1m/1h/72h: 0%/0%/0%/0%
       1 receive B2B credit remaining
       0 transmit B2B credit remaining
-    Last clearing of "show interface" counters : never
+      0 low priority transmit B2B credit remaining
+    Last clearing of "show interface" counters  :never
 fc1/31
     5 minutes input rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
     5 minutes output rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
     4 frames input, 304 bytes
       0 class-2 frames, 0 bytes
-      0 class-3 frames, 304 bytes
+      4 class-3 frames, 304 bytes
       0 class-f frames, 0 bytes
       0 discards, 0 errors, 0 CRC/FCS
       0 unknown class, 0 too long, 0 too short
@@ -762,13 +797,14 @@ fc1/31
       Percentage Tx credits not available for last 1s/1m/1h/72h: 0%/0%/0%/0%
       1 receive B2B credit remaining
       0 transmit B2B credit remaining
-    Last clearing of "show interface" counters : never
+      0 low priority transmit B2B credit remaining
+    Last clearing of "show interface" counters  :never
 fc1/32
     5 minutes input rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
     5 minutes output rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
     4 frames input, 304 bytes
       0 class-2 frames, 0 bytes
-      0 class-3 frames, 304 bytes
+      4 class-3 frames, 304 bytes
       0 class-f frames, 0 bytes
       0 discards, 0 errors, 0 CRC/FCS
       0 unknown class, 0 too long, 0 too short
@@ -787,13 +823,14 @@ fc1/32
       Percentage Tx credits not available for last 1s/1m/1h/72h: 0%/0%/0%/0%
       1 receive B2B credit remaining
       0 transmit B2B credit remaining
-    Last clearing of "show interface" counters : never
+      0 low priority transmit B2B credit remaining
+    Last clearing of "show interface" counters  :never
 fc1/33
     5 minutes input rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
     5 minutes output rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
     4 frames input, 304 bytes
       0 class-2 frames, 0 bytes
-      0 class-3 frames, 304 bytes
+      4 class-3 frames, 304 bytes
       0 class-f frames, 0 bytes
       0 discards, 0 errors, 0 CRC/FCS
       0 unknown class, 0 too long, 0 too short
@@ -812,13 +849,14 @@ fc1/33
       Percentage Tx credits not available for last 1s/1m/1h/72h: 0%/0%/0%/0%
       1 receive B2B credit remaining
       0 transmit B2B credit remaining
-    Last clearing of "show interface" counters : never
+      0 low priority transmit B2B credit remaining
+    Last clearing of "show interface" counters  :never
 fc1/34
     5 minutes input rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
     5 minutes output rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
     4 frames input, 304 bytes
       0 class-2 frames, 0 bytes
-      0 class-3 frames, 304 bytes
+      4 class-3 frames, 304 bytes
       0 class-f frames, 0 bytes
       0 discards, 0 errors, 0 CRC/FCS
       0 unknown class, 0 too long, 0 too short
@@ -837,13 +875,14 @@ fc1/34
       Percentage Tx credits not available for last 1s/1m/1h/72h: 0%/0%/0%/0%
       1 receive B2B credit remaining
       0 transmit B2B credit remaining
-    Last clearing of "show interface" counters : never
+      0 low priority transmit B2B credit remaining
+    Last clearing of "show interface" counters  :never
 fc1/35
     5 minutes input rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
     5 minutes output rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
     4 frames input, 304 bytes
       0 class-2 frames, 0 bytes
-      0 class-3 frames, 304 bytes
+      4 class-3 frames, 304 bytes
       0 class-f frames, 0 bytes
       0 discards, 0 errors, 0 CRC/FCS
       0 unknown class, 0 too long, 0 too short
@@ -862,13 +901,14 @@ fc1/35
       Percentage Tx credits not available for last 1s/1m/1h/72h: 0%/0%/0%/0%
       1 receive B2B credit remaining
       0 transmit B2B credit remaining
-    Last clearing of "show interface" counters : never
+      0 low priority transmit B2B credit remaining
+    Last clearing of "show interface" counters  :never
 fc1/36
     5 minutes input rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
     5 minutes output rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
     4 frames input, 304 bytes
       0 class-2 frames, 0 bytes
-      0 class-3 frames, 304 bytes
+      4 class-3 frames, 304 bytes
       0 class-f frames, 0 bytes
       0 discards, 0 errors, 0 CRC/FCS
       0 unknown class, 0 too long, 0 too short
@@ -887,13 +927,14 @@ fc1/36
       Percentage Tx credits not available for last 1s/1m/1h/72h: 0%/0%/0%/0%
       1 receive B2B credit remaining
       0 transmit B2B credit remaining
-    Last clearing of "show interface" counters : never
+      0 low priority transmit B2B credit remaining
+    Last clearing of "show interface" counters  :never
 fc1/37
     5 minutes input rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
     5 minutes output rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
     4 frames input, 304 bytes
       0 class-2 frames, 0 bytes
-      0 class-3 frames, 304 bytes
+      4 class-3 frames, 304 bytes
       0 class-f frames, 0 bytes
       0 discards, 0 errors, 0 CRC/FCS
       0 unknown class, 0 too long, 0 too short
@@ -912,13 +953,14 @@ fc1/37
       Percentage Tx credits not available for last 1s/1m/1h/72h: 0%/0%/0%/0%
       1 receive B2B credit remaining
       0 transmit B2B credit remaining
-    Last clearing of "show interface" counters : never
+      0 low priority transmit B2B credit remaining
+    Last clearing of "show interface" counters  :never
 fc1/38
     5 minutes input rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
     5 minutes output rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
     4 frames input, 304 bytes
       0 class-2 frames, 0 bytes
-      0 class-3 frames, 304 bytes
+      4 class-3 frames, 304 bytes
       0 class-f frames, 0 bytes
       0 discards, 0 errors, 0 CRC/FCS
       0 unknown class, 0 too long, 0 too short
@@ -937,13 +979,14 @@ fc1/38
       Percentage Tx credits not available for last 1s/1m/1h/72h: 0%/0%/0%/0%
       1 receive B2B credit remaining
       0 transmit B2B credit remaining
-    Last clearing of "show interface" counters : never
+      0 low priority transmit B2B credit remaining
+    Last clearing of "show interface" counters  :never
 fc1/39
     5 minutes input rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
     5 minutes output rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
     4 frames input, 304 bytes
       0 class-2 frames, 0 bytes
-      0 class-3 frames, 304 bytes
+      4 class-3 frames, 304 bytes
       0 class-f frames, 0 bytes
       0 discards, 0 errors, 0 CRC/FCS
       0 unknown class, 0 too long, 0 too short
@@ -962,13 +1005,14 @@ fc1/39
       Percentage Tx credits not available for last 1s/1m/1h/72h: 0%/0%/0%/0%
       1 receive B2B credit remaining
       0 transmit B2B credit remaining
-    Last clearing of "show interface" counters : never
+      0 low priority transmit B2B credit remaining
+    Last clearing of "show interface" counters  :never
 fc1/40
     5 minutes input rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
     5 minutes output rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
     4 frames input, 304 bytes
       0 class-2 frames, 0 bytes
-      0 class-3 frames, 304 bytes
+      4 class-3 frames, 304 bytes
       0 class-f frames, 0 bytes
       0 discards, 0 errors, 0 CRC/FCS
       0 unknown class, 0 too long, 0 too short
@@ -987,13 +1031,14 @@ fc1/40
       Percentage Tx credits not available for last 1s/1m/1h/72h: 0%/0%/0%/0%
       1 receive B2B credit remaining
       0 transmit B2B credit remaining
-    Last clearing of "show interface" counters : never
+      0 low priority transmit B2B credit remaining
+    Last clearing of "show interface" counters  :never
 fc1/41
     5 minutes input rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
     5 minutes output rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
     4 frames input, 304 bytes
       0 class-2 frames, 0 bytes
-      0 class-3 frames, 304 bytes
+      4 class-3 frames, 304 bytes
       0 class-f frames, 0 bytes
       0 discards, 0 errors, 0 CRC/FCS
       0 unknown class, 0 too long, 0 too short
@@ -1012,13 +1057,14 @@ fc1/41
       Percentage Tx credits not available for last 1s/1m/1h/72h: 0%/0%/0%/0%
       1 receive B2B credit remaining
       0 transmit B2B credit remaining
-    Last clearing of "show interface" counters : never
+      0 low priority transmit B2B credit remaining
+    Last clearing of "show interface" counters  :never
 fc1/42
     5 minutes input rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
     5 minutes output rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
     4 frames input, 304 bytes
       0 class-2 frames, 0 bytes
-      0 class-3 frames, 304 bytes
+      4 class-3 frames, 304 bytes
       0 class-f frames, 0 bytes
       0 discards, 0 errors, 0 CRC/FCS
       0 unknown class, 0 too long, 0 too short
@@ -1037,13 +1083,14 @@ fc1/42
       Percentage Tx credits not available for last 1s/1m/1h/72h: 0%/0%/0%/0%
       1 receive B2B credit remaining
       0 transmit B2B credit remaining
-    Last clearing of "show interface" counters : never
+      0 low priority transmit B2B credit remaining
+    Last clearing of "show interface" counters  :never
 fc1/43
     5 minutes input rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
     5 minutes output rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
     4 frames input, 304 bytes
       0 class-2 frames, 0 bytes
-      0 class-3 frames, 304 bytes
+      4 class-3 frames, 304 bytes
       0 class-f frames, 0 bytes
       0 discards, 0 errors, 0 CRC/FCS
       0 unknown class, 0 too long, 0 too short
@@ -1062,13 +1109,14 @@ fc1/43
       Percentage Tx credits not available for last 1s/1m/1h/72h: 0%/0%/0%/0%
       1 receive B2B credit remaining
       0 transmit B2B credit remaining
-    Last clearing of "show interface" counters : never
+      0 low priority transmit B2B credit remaining
+    Last clearing of "show interface" counters  :never
 fc1/44
     5 minutes input rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
     5 minutes output rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
     4 frames input, 304 bytes
       0 class-2 frames, 0 bytes
-      0 class-3 frames, 304 bytes
+      4 class-3 frames, 304 bytes
       0 class-f frames, 0 bytes
       0 discards, 0 errors, 0 CRC/FCS
       0 unknown class, 0 too long, 0 too short
@@ -1087,13 +1135,14 @@ fc1/44
       Percentage Tx credits not available for last 1s/1m/1h/72h: 0%/0%/0%/0%
       1 receive B2B credit remaining
       0 transmit B2B credit remaining
-    Last clearing of "show interface" counters : never
+      0 low priority transmit B2B credit remaining
+    Last clearing of "show interface" counters  :never
 fc1/45
     5 minutes input rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
     5 minutes output rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
     4 frames input, 304 bytes
       0 class-2 frames, 0 bytes
-      0 class-3 frames, 304 bytes
+      4 class-3 frames, 304 bytes
       0 class-f frames, 0 bytes
       0 discards, 0 errors, 0 CRC/FCS
       0 unknown class, 0 too long, 0 too short
@@ -1112,13 +1161,14 @@ fc1/45
       Percentage Tx credits not available for last 1s/1m/1h/72h: 0%/0%/0%/0%
       1 receive B2B credit remaining
       0 transmit B2B credit remaining
-    Last clearing of "show interface" counters : never
+      0 low priority transmit B2B credit remaining
+    Last clearing of "show interface" counters  :never
 fc1/46
     5 minutes input rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
     5 minutes output rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
     4 frames input, 304 bytes
       0 class-2 frames, 0 bytes
-      0 class-3 frames, 304 bytes
+      4 class-3 frames, 304 bytes
       0 class-f frames, 0 bytes
       0 discards, 0 errors, 0 CRC/FCS
       0 unknown class, 0 too long, 0 too short
@@ -1137,13 +1187,14 @@ fc1/46
       Percentage Tx credits not available for last 1s/1m/1h/72h: 0%/0%/0%/0%
       1 receive B2B credit remaining
       0 transmit B2B credit remaining
-    Last clearing of "show interface" counters : never
+      0 low priority transmit B2B credit remaining
+    Last clearing of "show interface" counters  :never
 fc1/47
     5 minutes input rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
     5 minutes output rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
     4 frames input, 304 bytes
       0 class-2 frames, 0 bytes
-      0 class-3 frames, 304 bytes
+      4 class-3 frames, 304 bytes
       0 class-f frames, 0 bytes
       0 discards, 0 errors, 0 CRC/FCS
       0 unknown class, 0 too long, 0 too short
@@ -1156,19 +1207,20 @@ fc1/47
     0 input OLS, 0 LRR, 0 NOS, 0 loop inits
     0 output OLS, 0 LRR, 0 NOS, 0 loop inits
     0 link failures, 0 sync losses, 0 signal losses
-     201 Transmit B2B credit transitions to zero
+     2 Transmit B2B credit transitions to zero
      0 Receive B2B credit transitions to zero
       0 2.5us TxWait due to lack of transmit credits
       Percentage Tx credits not available for last 1s/1m/1h/72h: 0%/0%/0%/0%
       1 receive B2B credit remaining
       0 transmit B2B credit remaining
-    Last clearing of "show interface" counters : never
+      0 low priority transmit B2B credit remaining
+    Last clearing of "show interface" counters  :never
 fc1/48
     5 minutes input rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
     5 minutes output rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
     4 frames input, 304 bytes
       0 class-2 frames, 0 bytes
-      0 class-3 frames, 304 bytes
+      4 class-3 frames, 304 bytes
       0 class-f frames, 0 bytes
       0 discards, 0 errors, 0 CRC/FCS
       0 unknown class, 0 too long, 0 too short
@@ -1181,32 +1233,125 @@ fc1/48
     0 input OLS, 0 LRR, 0 NOS, 0 loop inits
     0 output OLS, 0 LRR, 0 NOS, 0 loop inits
     0 link failures, 0 sync losses, 0 signal losses
-     200 Transmit B2B credit transitions to zero
+     2 Transmit B2B credit transitions to zero
      0 Receive B2B credit transitions to zero
       0 2.5us TxWait due to lack of transmit credits
       Percentage Tx credits not available for last 1s/1m/1h/72h: 0%/0%/0%/0%
       1 receive B2B credit remaining
       0 transmit B2B credit remaining
-    Last clearing of "show interface" counters : never
-fc5/11
-    5 minutes input rate 191985848 bits/sec, 23998231 bytes/sec, 11642 frames/sec
-    5 minutes output rate 190598816 bits/sec, 23824852 bytes/sec, 11635 frames/sec
-    245118543753 frames input, 500744079849872 bytes
+      0 low priority transmit B2B credit remaining
+    Last clearing of "show interface" counters  :never
+mgmt0
+    1237637 packets input, 114291555 bytes
+      1148247 multicast frames, 0 compressed
+      0 input errors, 0 frame
+      0 overrun, 0 fifo
+    123046 packets output, 25518167 bytes
+      0 underruns, 0 output errors
+      0 collisions, 0 fifo
+      0 carrier errors
+
+--------------------------------------------------------------------------------
+Port                                 InOctets                      InUcastPkts
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+Port                              InMcastPkts                      InBcastPkts
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+Port                                OutOctets                     OutUcastPkts
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+Port                             OutMcastPkts                     OutBcastPkts
+--------------------------------------------------------------------------------
+port-channel1
+    5 minutes input rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    5 minutes output rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    0 frames input, 0 bytes
       0 class-2 frames, 0 bytes
-      245118543753 class-3 frames, 500744079849872 bytes
+      0 class-3 frames, 0 bytes
       0 class-f frames, 0 bytes
-      0 discards, 0 errors, 0 CRC
+      0 discards, 0 errors, 0 CRC/FCS
       0 unknown class, 0 too long, 0 too short
-    528152042374 frames output, 1084283773043848 bytes
+    0 frames output, 0 bytes
       0 class-2 frames, 0 bytes
-      528152042374 class-3 frames, 1084283773043848 bytes
+      0 class-3 frames, 0 bytes
       0 class-f frames, 0 bytes
-      11 discards, 0 errors
-    2 input OLS, 2 LRR, 1 NOS, 82 loop inits
-    18 output OLS, 12 LRR, 18 NOS, 17 loop inits
-    13 link failures, 43 sync losses, 0 signal losses
-     4407703765 transmit B2B credit transitions from zero
-     4769921 receive B2B credit transitions from zero
-      32 receive B2B credit remaining
-      5 transmit B2B credit remaining
-      5 low priority transmit B2B credit remaining
+      0 discards, 0 errors
+    0 timeout discards, 0 credit loss
+    0 input OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 output OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 link failures, 0 sync losses, 0 signal losses
+     0 Transmit B2B credit transitions to zero
+     0 Receive B2B credit transitions to zero
+      0 2.5us TxWait due to lack of transmit credits
+      Percentage Tx credits not available for last 1s/1m/1h/72h: 0%/0%/0%/0%
+port-channel2
+    5 minutes input rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    5 minutes output rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    0 frames input, 0 bytes
+      0 class-2 frames, 0 bytes
+      0 class-3 frames, 0 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors, 0 CRC/FCS
+      0 unknown class, 0 too long, 0 too short
+    0 frames output, 0 bytes
+      0 class-2 frames, 0 bytes
+      0 class-3 frames, 0 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors
+    0 timeout discards, 0 credit loss
+    0 input OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 output OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 link failures, 0 sync losses, 0 signal losses
+     0 Transmit B2B credit transitions to zero
+     0 Receive B2B credit transitions to zero
+      0 2.5us TxWait due to lack of transmit credits
+      Percentage Tx credits not available for last 1s/1m/1h/72h: 0%/0%/0%/0%
+port-channel100
+    5 minutes input rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    5 minutes output rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    0 frames input, 0 bytes
+      0 class-2 frames, 0 bytes
+      0 class-3 frames, 0 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors, 0 CRC/FCS
+      0 unknown class, 0 too long, 0 too short
+    0 frames output, 0 bytes
+      0 class-2 frames, 0 bytes
+      0 class-3 frames, 0 bytes
+      0 class-f frames, 0 bytes
+      0 discards, 0 errors
+    0 timeout discards, 0 credit loss
+    0 input OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 output OLS, 0 LRR, 0 NOS, 0 loop inits
+    0 link failures, 0 sync losses, 0 signal losses
+     0 Transmit B2B credit transitions to zero
+     0 Receive B2B credit transitions to zero
+      0 2.5us TxWait due to lack of transmit credits
+      Percentage Tx credits not available for last 1s/1m/1h/72h: 0%/0%/0%/0%
+port-channel200
+    5 minutes input rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    5 minutes output rate 0 bits/sec, 0 bytes/sec, 0 frames/sec
+    229610 frames input, 17983412 bytes
+      0 class-2 frames, 0 bytes
+      144 class-3 frames, 11456 bytes
+      229466 class-f frames, 17971956 bytes
+      0 discards, 0 errors, 0 CRC/FCS
+      0 unknown class, 0 too long, 0 too short
+    229610 frames output, 14718584 bytes
+      0 class-2 frames, 0 bytes
+      140 class-3 frames, 10640 bytes
+      229470 class-f frames, 14707944 bytes
+      0 discards, 0 errors
+    0 timeout discards, 0 credit loss
+    6 input OLS, 7 LRR, 3 NOS, 0 loop inits
+    4 output OLS, 1 LRR, 4 NOS, 0 loop inits
+    4 link failures, 2 sync losses, 1 signal losses
+     14 Transmit B2B credit transitions to zero
+     8 Receive B2B credit transitions to zero
+      0 2.5us TxWait due to lack of transmit credits
+      Percentage Tx credits not available for last 1s/1m/1h/72h: 0%/0%/0%/0%
+sw-core1-9710#

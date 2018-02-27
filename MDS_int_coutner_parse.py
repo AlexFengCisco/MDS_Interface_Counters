@@ -105,8 +105,23 @@ import re
 import xlsxwriter  
 
 #open show interface counters text file
-fh = open("sw-core1-9710_10.75.60.4_if_count.txt", "r") 
+fh = open("sw-core1-9710_10.75.60.4.txt", "r") 
 fh_str = fh.read()
+
+#cut off GigabitEthernet mgmt0  fcip port-channel
+
+find_gig =fh_str.find("GigabitEthernet")
+find_mgmt =fh_str.find("mgmt")
+find_fcip =fh_str.find("fcip")
+find_pc =fh_str.find("port-channel")
+
+find_list=[find_gig,find_mgmt,find_fcip,find_pc]
+find_list.sort()
+
+for find in find_list:
+    if find<>-1:
+        fh_str=fh_str[:find]
+        break
 
 
 #split a whole file string to multilines
@@ -122,9 +137,10 @@ p5 = re.compile(r'low')
 outStr=u""
 
 for singleLine in multiStr: 
-    if p1.search(singleLine) == None and p2.search(singleLine)== None and p3.search(singleLine) == None and p4.search(singleLine)== None:
+    if p1.search(singleLine) == None and p2.search(singleLine)== None and p3.search(singleLine) == None and p4.search(singleLine)== None and p5.search(singleLine)== None:
         outStr += p1.sub( '', singleLine,count = 1 )
 
+print outStr
 
 #collect all the numbers from multi lines without class-
 reObj1= re.compile(r"\d+\.?\d*")
@@ -175,7 +191,7 @@ for i in interface_fc_info_order_bb_zero:
 
 # example save as xlsx file
 
-workbook=xlsxwriter.Workbook('sw-core1-9710_10.75.60.4_if_count.xlsx')
+workbook=xlsxwriter.Workbook('sw-core1-9710_10.75.60.4.xlsx')
 worksheet = workbook.add_worksheet()
 
 row=0
