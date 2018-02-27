@@ -1,6 +1,6 @@
 '''
 MDS interface counters parse
-for MDS 9513 8G advanced Line card 
+for MDS 9513 8G advanced Line card  and 9513 4G Line card and MDS 9710 16G Line card
 
 issue show interface counters  and capture or save to a text file ,then cut off interface mgt part ,cos this module only deal with FC counters
 
@@ -140,7 +140,6 @@ for singleLine in multiStr:
     if p1.search(singleLine) == None and p2.search(singleLine)== None and p3.search(singleLine) == None and p4.search(singleLine)== None and p5.search(singleLine)== None:
         outStr += p1.sub( '', singleLine,count = 1 )
 
-print outStr
 
 #collect all the numbers from multi lines without class-
 reObj1= re.compile(r"\d+\.?\d*")
