@@ -102,10 +102,10 @@ interface fc counter collection list index define
 40:      transmit B2B credit remaining
 '''
 import re
-
+import xlsxwriter  
 
 #open show interface counters text file
-fh = open("/Users/AlexFeng/git/LAB/tmp/sw-core1-9710_10.75.60.4_if_count.txt", "r") 
+fh = open("/Users/AlexFeng/git/MDS_Interface_Counters/sw-core1-9710_10.75.60.4_if_count.txt", "r") 
 fh_str = fh.read()
 
 
@@ -173,3 +173,27 @@ for i in interface_fc_info_order_bb_zero:
     tx_bb_zero=i[33]
     print "interface fc "+slot+"/"+interface_id+"   tx bb_credit_zero  "+str(tx_bb_zero)
 
+# example save as xlsx file
+
+workbook=xlsxwriter.Workbook('/Users/AlexFeng/git/MDS_Interface_Counters/sw-core1-9710_10.75.60.4_if_count.xlsx')
+worksheet = workbook.add_worksheet()
+
+row=0
+col=0
+
+worksheet.write(row, 0, 'Interface')
+worksheet.write(row, 1, 'Tx bb_credit_zero')
+row +=1
+
+for i in interface_fc_info:
+    slot=i[0]  #has to -1 ;-(
+    interface_id=i[1]
+    tx_bb_zero=i[33]
+    print "interface fc "+slot+"/"+interface_id+"   tx bb_credit_zero  "+str(tx_bb_zero)
+
+    worksheet.write(row, col,slot+'/'+interface_id)
+    worksheet.write(row, col+1,tx_bb_zero)
+    row +=1
+    
+    
+workbook.close()
