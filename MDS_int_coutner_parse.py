@@ -105,7 +105,7 @@ import re
 import xlsxwriter  
 
 #open show interface counters text file
-fh = open("/Users/AlexFeng/git/MDS_Interface_Counters/sw-core1-9710_10.75.60.4_if_count.txt", "r") 
+fh = open("sw-core1-9710_10.75.60.4_if_count.txt", "r") 
 fh_str = fh.read()
 
 
@@ -175,7 +175,7 @@ for i in interface_fc_info_order_bb_zero:
 
 # example save as xlsx file
 
-workbook=xlsxwriter.Workbook('/Users/AlexFeng/git/MDS_Interface_Counters/sw-core1-9710_10.75.60.4_if_count.xlsx')
+workbook=xlsxwriter.Workbook('sw-core1-9710_10.75.60.4_if_count.xlsx')
 worksheet = workbook.add_worksheet()
 
 row=0
