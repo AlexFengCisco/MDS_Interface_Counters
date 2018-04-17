@@ -1,0 +1,388 @@
+ show int trans detail
+fc1/1 sfp is present 
+    Name is CISCO-FINISAR   
+    Manufacturer's part number is FTLF8528P3BCV-CS
+    Revision is A   
+    Serial number is FNS18200S81     
+    Cisco part number is 10-2418-01
+    Cisco pid is DS-SFP-FC8G-SW      
+    FC Transmitter type is short wave laser w/o OFC (SN)
+    FC Transmitter supports short distance link length
+    Transmission medium is multimode laser with 62.5 um aperture (M6)
+    Supported speeds are - Min speed: 2000 Mb/s, Max speed: 8000 Mb/s
+    Nominal bit rate is 8500 Mb/s
+    Link length supported for 50/125mm fiber is 50 m
+    Link length supported for 62.5/125mm fiber is 20 m
+    Cisco extended id is unknown (0x0)
+
+    No tx fault, no rx loss, in sync state, diagnostic monitoring type is 0x68
+    SFP Diagnostics Information:
+----------------------------------------------------------------------------
+                                     Alarms                  Warnings
+                                High        Low         High          Low
+----------------------------------------------------------------------------
+  Temperature  18.93 C         75.00 C     -5.00 C     70.00 C        0.00 C
+  Voltage       3.28 V          3.63 V      2.97 V      3.46 V        3.13 V
+  Current       7.11 mA        11.80 mA     4.00 mA    10.80 mA       5.00 mA
+  Tx Power     -3.12 dBm        1.70 dBm  -14.00 dBm   -1.30 dBm    -10.00 dBm
+  Rx Power     -1.52 dBm        3.00 dBm  -17.30 dBm    0.00 dBm    -13.30 dBm
+  Transmit Fault Count = 0
+----------------------------------------------------------------------------
+  Note: ++  high-alarm; +  high-warning; --  low-alarm; -  low-warning
+
+fc1/2 sfp is present 
+    Name is CISCO-AVAGO     
+    Manufacturer's part number is SFBR-5780APZ-CS2
+    Revision is G2.3
+    Serial number is AGA150283U4     
+    Cisco part number is 10-2418-01
+    Cisco pid is DS-SFP-FC8G-SW      
+    FC Transmitter type is short wave laser w/o OFC (SN)
+    FC Transmitter supports short distance link length
+    Transmission medium is multimode laser with 62.5 um aperture (M6)
+    Supported speeds are - Min speed: 2000 Mb/s, Max speed: 8000 Mb/s
+    Nominal bit rate is 8500 Mb/s
+    Link length supported for 50/125mm fiber is 50 m
+    Link length supported for 62.5/125mm fiber is 20 m
+    Cisco extended id is unknown (0x0)
+
+    No tx fault, rx loss, no sync exists, diagnostic monitoring type is 0x68
+    SFP Diagnostics Information:
+----------------------------------------------------------------------------
+                                     Alarms                  Warnings
+                                High        Low         High          Low
+----------------------------------------------------------------------------
+  Temperature  20.09 C         75.00 C     -5.00 C     70.00 C        0.00 C
+  Voltage       3.28 V          3.63 V      2.97 V      3.46 V        3.13 V
+  Current       0.00 mA         8.50 mA     2.00 mA     8.50 mA       2.00 mA
+  Tx Power    -40.00 dBm        1.70 dBm  -14.00 dBm   -1.30 dBm    -10.00 dBm
+  Rx Power    -33.98 dBm --     3.00 dBm  -17.30 dBm    0.00 dBm    -13.30 dBm
+  Transmit Fault Count = 0
+----------------------------------------------------------------------------
+  Note: ++  high-alarm; +  high-warning; --  low-alarm; -  low-warning
+
+fc1/3 sfp is present 
+    Name is CISCO-AVAGO     
+    Manufacturer's part number is SFBR-5799APZ    
+    Revision is     
+    Serial number is A4A1411JECG     
+    Cisco part number is 10-2195-01
+    Cisco pid is DS-SFP-FC4G-SW      
+    FC Transmitter type is short wave laser w/o OFC (SN)
+    FC Transmitter supports intermediate distance link length
+    Transmission medium is multimode laser with 62.5 um aperture (M6)
+    Supported speeds are - Min speed: 1000 Mb/s, Max speed: 4000 Mb/s
+    Nominal bit rate is 4300 Mb/s
+    Link length supported for 50/125mm fiber is 150 m
+    Link length supported for 62.5/125mm fiber is 70 m
+    Cisco extended id is unknown (0x0)
+
+    No tx fault, no rx loss, in sync state, diagnostic monitoring type is 0x68
+    SFP Diagnostics Information:
+----------------------------------------------------------------------------
+                                     Alarms                  Warnings
+                                High        Low         High          Low
+----------------------------------------------------------------------------
+  Temperature  21.26 C         89.00 C     -9.00 C     85.00 C       -5.00 C
+  Voltage       3.29 V          3.60 V      3.00 V      3.50 V        3.10 V
+  Current       5.65 mA        10.00 mA     2.00 mA    10.00 mA       2.00 mA
+  Tx Power     -4.32 dBm        1.00 dBm  -13.50 dBm   -3.00 dBm     -9.50 dBm
+  Rx Power     -4.45 dBm        4.00 dBm  -21.02 dBm    0.00 dBm    -16.99 dBm
+  Transmit Fault Count = 0
+----------------------------------------------------------------------------
+  Note: ++  high-alarm; +  high-warning; --  low-alarm; -  low-warning
+
+fc1/4 sfp is present 
+    Name is CISCO-FINISAR   
+    Manufacturer's part number is FTLF8528P2BCV-CS
+    Revision is D   
+    Serial number is FNS1538064X     
+    Cisco part number is 10-2418-01
+    Cisco pid is DS-SFP-FC8G-SW      
+    FC Transmitter type is short wave laser w/o OFC (SN)
+    FC Transmitter supports short distance link length
+    Transmission medium is multimode laser with 62.5 um aperture (M6)
+    Supported speeds are - Min speed: 2000 Mb/s, Max speed: 8000 Mb/s
+    Nominal bit rate is 8500 Mb/s
+    Link length supported for 50/125mm fiber is 50 m
+    Link length supported for 62.5/125mm fiber is 20 m
+    Cisco extended id is unknown (0x0)
+
+    No tx fault, rx loss, no sync exists, diagnostic monitoring type is 0x68
+    SFP Diagnostics Information:
+----------------------------------------------------------------------------
+                                     Alarms                  Warnings
+                                High        Low         High          Low
+----------------------------------------------------------------------------
+  Temperature  20.40 C         75.00 C     -5.00 C     70.00 C        0.00 C
+  Voltage       3.29 V          3.63 V      2.97 V      3.46 V        3.13 V
+  Current       6.53 mA        11.80 mA     4.00 mA    10.80 mA       5.00 mA
+  Tx Power     -3.28 dBm        1.70 dBm  -14.00 dBm   -1.30 dBm    -10.00 dBm
+  Rx Power      N/A      --     3.00 dBm  -17.30 dBm    0.00 dBm    -13.30 dBm
+  Transmit Fault Count = 0
+----------------------------------------------------------------------------
+  Note: ++  high-alarm; +  high-warning; --  low-alarm; -  low-warning
+
+fc1/5 sfp not present
+fc1/6 sfp not present
+fc1/7 sfp not present
+fc1/8 sfp not present
+fc1/9 sfp not present
+fc1/10 sfp not present
+fc1/11 sfp not present
+fc1/12 sfp not present
+fc1/13 sfp not present
+fc1/14 sfp not present
+fc1/15 sfp not present
+fc1/16 sfp not present
+fc1/17 sfp not present
+fc1/18 sfp not present
+fc1/19 sfp not present
+fc1/20 sfp not present
+fc1/21 sfp not present
+fc1/22 sfp not present
+fc1/23 sfp not present
+fc1/24 sfp not present
+fc1/25 sfp not present
+fc1/26 sfp not present
+fc1/27 sfp not present
+fc1/28 sfp not present
+fc1/29 sfp not present
+fc1/30 sfp not present
+fc1/31 sfp not present
+fc1/32 sfp not present
+fc1/33 sfp not present
+fc1/34 sfp not present
+fc1/35 sfp not present
+fc1/36 sfp not present
+fc1/37 sfp not present
+fc1/38 sfp not present
+fc1/39 sfp not present
+fc1/40 sfp not present
+fc1/41 sfp not present
+fc1/42 sfp not present
+fc1/43 sfp not present
+fc1/44 sfp not present
+fc1/45 sfp not present
+fc1/46 sfp not present
+fc1/47 sfp not present
+fc1/48 sfp not present
+fc2/1 sfp not present
+fc2/2 sfp not present
+fc2/3 sfp not present
+fc2/4 sfp not present
+fc2/5 sfp not present
+fc2/6 sfp not present
+fc2/7 sfp not present
+fc2/8 sfp not present
+fc2/9 sfp not present
+fc2/10 sfp not present
+fc2/11 sfp not present
+fc2/12 sfp not present
+fc2/13 sfp not present
+fc2/14 sfp not present
+fc2/15 sfp not present
+fc2/16 sfp not present
+fc2/17 sfp not present
+fc2/18 sfp not present
+fc3/1 sfp is present 
+    Name is CISCO-AVAGO     
+    Manufacturer's part number is SFBR-5780AMZ-CS2
+    Revision is G4.1
+    Serial number is AVD2022B1TY     
+    Cisco part number is 10-2418-02
+    Cisco pid is DS-SFP-FC8G-SW      
+    FC Transmitter type is short wave laser w/o OFC (SN)
+    FC Transmitter supports short distance link length
+    Transmission medium is multimode laser with 62.5 um aperture (M6)
+    Supported speeds are - Min speed: 2000 Mb/s, Max speed: 8000 Mb/s
+    Nominal bit rate is 8500 Mb/s
+    Link length supported for 50/125mm fiber is 50 m
+    Link length supported for 62.5/125mm fiber is 20 m
+    Cisco extended id is unknown (0x0)
+
+    No tx fault, rx loss, no sync exists, diagnostic monitoring type is 0x68
+    SFP Diagnostics Information:
+----------------------------------------------------------------------------
+                                     Alarms                  Warnings
+                                High        Low         High          Low
+----------------------------------------------------------------------------
+  Temperature  21.92 C         75.00 C     -5.00 C     70.00 C        0.00 C
+  Voltage       3.32 V          3.63 V      2.97 V      3.46 V        3.13 V
+  Current       6.07 mA        10.50 mA     2.00 mA    10.50 mA       2.00 mA
+  Tx Power     -2.42 dBm        1.70 dBm  -14.00 dBm   -1.30 dBm    -10.00 dBm
+  Rx Power    -35.23 dBm --     3.00 dBm  -17.30 dBm    0.00 dBm    -13.30 dBm
+  Transmit Fault Count = 0
+----------------------------------------------------------------------------
+  Note: ++  high-alarm; +  high-warning; --  low-alarm; -  low-warning
+
+fc3/2 sfp is present 
+    Name is CISCO-FINISAR   
+    Manufacturer's part number is FTLF8528P3BCV-C1
+    Revision is A   
+    Serial number is FNS20141JJ4     
+    Cisco part number is 10-2418-02
+    Cisco pid is DS-SFP-FC8G-SW      
+    FC Transmitter type is short wave laser w/o OFC (SN)
+    FC Transmitter supports short distance link length
+    Transmission medium is multimode laser with 62.5 um aperture (M6)
+    Supported speeds are - Min speed: 2000 Mb/s, Max speed: 8000 Mb/s
+    Nominal bit rate is 8500 Mb/s
+    Link length supported for 50/125mm fiber is 50 m
+    Link length supported for 62.5/125mm fiber is 20 m
+    Cisco extended id is unknown (0x0)
+
+    No tx fault, rx loss, no sync exists, diagnostic monitoring type is 0x68
+    SFP Diagnostics Information:
+----------------------------------------------------------------------------
+                                     Alarms                  Warnings
+                                High        Low         High          Low
+----------------------------------------------------------------------------
+  Temperature  16.85 C         75.00 C     -5.00 C     70.00 C        0.00 C
+  Voltage       3.32 V          3.63 V      2.97 V      3.46 V        3.13 V
+  Current       5.93 mA        11.80 mA     4.00 mA    10.80 mA       5.00 mA
+  Tx Power     -3.09 dBm        1.70 dBm  -14.00 dBm   -1.30 dBm    -10.00 dBm
+  Rx Power    -26.78 dBm --     3.00 dBm  -17.30 dBm    0.00 dBm    -13.30 dBm
+  Transmit Fault Count = 0
+----------------------------------------------------------------------------
+  Note: ++  high-alarm; +  high-warning; --  low-alarm; -  low-warning
+
+fc3/3 sfp not present
+fc3/4 sfp not present
+fc3/5 sfp not present
+fc3/6 sfp not present
+fc3/7 sfp not present
+fc3/8 sfp not present
+fc3/9 sfp not present
+fc3/10 sfp not present
+fc3/11 sfp not present
+fc3/12 sfp not present
+fc3/13 sfp not present
+fc3/14 sfp is present 
+    Name is CISCO-JDSU      
+    Manufacturer's part number is JSHR42S305CD1   
+    Revision is R004
+    Serial number is JUT11230BB8     
+    Cisco part number is 10-2195-01
+    Cisco pid is DS-SFP-FC4G-SW      
+    FC Transmitter type is short wave laser w/o OFC (SN)
+    FC Transmitter supports intermediate distance link length
+    Transmission medium is multimode laser with 62.5 um aperture (M6)
+    Supported speeds are - Min speed: 1000 Mb/s, Max speed: 4000 Mb/s
+    Nominal bit rate is 4300 Mb/s
+    Link length supported for 50/125mm fiber is 150 m
+    Link length supported for 62.5/125mm fiber is 70 m
+    Cisco extended id is unknown (0x0)
+
+    No tx fault, rx loss, no sync exists, diagnostic monitoring type is 0x68
+    SFP Diagnostics Information:
+----------------------------------------------------------------------------
+                                     Alarms                  Warnings
+                                High        Low         High          Low
+----------------------------------------------------------------------------
+  Temperature  21.96 C         89.00 C     -9.00 C     85.00 C       -5.00 C
+  Voltage       3.31 V          3.60 V      3.00 V      3.50 V        3.10 V
+  Current       4.39 mA        16.00 mA     2.00 mA    15.00 mA       3.00 mA
+  Tx Power     -4.54 dBm        1.00 dBm  -13.51 dBm   -3.00 dBm     -9.50 dBm
+  Rx Power    -32.22 dBm --     4.00 dBm  -21.02 dBm    0.00 dBm    -17.01 dBm
+  Transmit Fault Count = 0
+----------------------------------------------------------------------------
+  Note: ++  high-alarm; +  high-warning; --  low-alarm; -  low-warning
+
+fc3/15 sfp not present
+fc3/16 sfp is present 
+    Name is CISCO-FINISAR   
+    Manufacturer's part number is FTLF8524P2BNL-C2
+    Revision is D   
+    Serial number is FNS1745085W     
+    Cisco part number is 10-2195-01
+    Cisco pid is DS-SFP-FC4G-SW      
+    FC Transmitter type is short wave laser w/o OFC (SN)
+    FC Transmitter supports intermediate distance link length
+    Transmission medium is multimode laser with 62.5 um aperture (M6)
+    Supported speeds are - Min speed: 1000 Mb/s, Max speed: 4000 Mb/s
+    Nominal bit rate is 4300 Mb/s
+    Link length supported for 50/125mm fiber is 150 m
+    Link length supported for 62.5/125mm fiber is 70 m
+    Cisco extended id is unknown (0x0)
+
+    No tx fault, rx loss, no sync exists, diagnostic monitoring type is 0x68
+    SFP Diagnostics Information:
+----------------------------------------------------------------------------
+                                     Alarms                  Warnings
+                                High        Low         High          Low
+----------------------------------------------------------------------------
+  Temperature  19.27 C         89.00 C     -9.00 C     85.00 C       -5.00 C
+  Voltage       3.31 V          3.60 V      3.00 V      3.50 V        3.10 V
+  Current       7.61 mA        17.00 mA     1.00 mA    14.00 mA       2.00 mA
+  Tx Power     -3.95 dBm        1.00 dBm  -13.50 dBm   -3.00 dBm     -9.50 dBm
+  Rx Power    -33.01 dBm --     4.00 dBm  -21.02 dBm    0.00 dBm    -16.99 dBm
+  Transmit Fault Count = 0
+----------------------------------------------------------------------------
+  Note: ++  high-alarm; +  high-warning; --  low-alarm; -  low-warning
+
+fc3/17 sfp not present
+fc3/18 sfp not present
+fc3/19 sfp not present
+fc3/20 sfp not present
+fc3/21 sfp not present
+fc3/22 sfp not present
+fc3/23 sfp not present
+fc3/24 sfp not present
+fc9/1 sfp is present 
+    Name is CISCO-AVAGO     
+    Manufacturer's part number is SFBR-5799APZ    
+    Revision is     
+    Serial number is A4A1532AMN0     
+    Cisco part number is 10-2195-01
+    Cisco pid is DS-SFP-FC4G-SW      
+    FC Transmitter type is short wave laser w/o OFC (SN)
+    FC Transmitter supports intermediate distance link length
+    Transmission medium is multimode laser with 62.5 um aperture (M6)
+    Supported speeds are - Min speed: 1000 Mb/s, Max speed: 4000 Mb/s
+    Nominal bit rate is 4300 Mb/s
+    Link length supported for 50/125mm fiber is 150 m
+    Link length supported for 62.5/125mm fiber is 70 m
+    Cisco extended id is unknown (0x0)
+
+    No tx fault, rx loss, no sync exists, diagnostic monitoring type is 0x68
+    SFP Diagnostics Information:
+----------------------------------------------------------------------------
+                                     Alarms                  Warnings
+                                High        Low         High          Low
+----------------------------------------------------------------------------
+  Temperature  17.12 C         89.00 C     -9.00 C     85.00 C       -5.00 C
+  Voltage       3.36 V          3.60 V      3.00 V      3.50 V        3.10 V
+  Current       0.00 mA  --    10.00 mA     2.00 mA    10.00 mA       2.00 mA
+  Tx Power      N/A      --     1.00 dBm  -13.50 dBm   -3.00 dBm     -9.50 dBm
+  Rx Power      N/A      --     4.00 dBm  -21.02 dBm    0.00 dBm    -16.99 dBm
+  Transmit Fault Count = 0
+----------------------------------------------------------------------------
+  Note: ++  high-alarm; +  high-warning; --  low-alarm; -  low-warning
+
+fc9/2 sfp not present
+fc9/3 sfp not present
+fc9/4 sfp not present
+fc9/5 sfp not present
+fc9/6 sfp not present
+fc9/7 sfp not present
+fc9/8 sfp not present
+fc9/9 sfp not present
+fc9/10 sfp not present
+fc9/11 sfp not present
+fc9/12 sfp not present
+fc9/13 sfp not present
+fc9/14 sfp not present
+fc9/15 sfp not present
+fc9/16 sfp not present
+fc9/17 sfp not present
+fc9/18 sfp not present
+GigabitEthernet2/1 sfp not present
+GigabitEthernet2/2 sfp not present
+GigabitEthernet2/3 sfp not present
+GigabitEthernet2/4 sfp not present
+GigabitEthernet9/1 sfp not present
+GigabitEthernet9/2 sfp not present
+GigabitEthernet9/3 sfp not present
+GigabitEthernet9/4 sfp not present
+mds9513#

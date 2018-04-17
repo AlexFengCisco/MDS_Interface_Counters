@@ -1,0 +1,205 @@
+ show int trans detail
+fc1/1 sfp is present 
+    Name is CISCO-AVAGO     
+    Manufacturer's part number is SFBR-5780AMZ-CS2
+    Revision is G4.1
+    Serial number is AVD1944B6PV     
+    Cisco part number is 10-2418-02
+    Cisco pid is DS-SFP-FC8G-SW      
+    FC Transmitter type is short wave laser w/o OFC (SN)
+    FC Transmitter supports short distance link length
+    Transmission medium is multimode laser with 62.5 um aperture (M6)
+    Supported speeds are - Min speed: 2000 Mb/s, Max speed: 8000 Mb/s
+    Nominal bit rate is 8500 Mb/s
+    Link length supported for 50/125um OM2 fiber is 50 m
+    Link length supported for 62.5/125um fiber is 21 m
+    Link length supported for 50/125um OM3 fiber is 150 m
+    Cisco extended id is unknown (0x0)
+
+    No tx fault, no rx loss, in sync state, diagnostic monitoring type is 0x68
+    SFP Diagnostics Information:
+----------------------------------------------------------------------------
+                                     Alarms                  Warnings
+                                High        Low         High          Low
+----------------------------------------------------------------------------
+  Temperature  20.19 C         75.00 C     -5.00 C     70.00 C        0.00 C
+  Voltage       3.30 V          3.63 V      2.97 V      3.46 V        3.13 V
+  Current       5.62 mA        10.50 mA     2.00 mA    10.50 mA       2.00 mA
+  Tx Power     -2.49 dBm        1.70 dBm  -14.00 dBm   -1.30 dBm    -10.00 dBm
+  Rx Power     -2.92 dBm        3.00 dBm  -17.30 dBm    0.00 dBm    -13.30 dBm
+  Transmit Fault Count = 0
+----------------------------------------------------------------------------
+  Note: ++  high-alarm; +  high-warning; --  low-alarm; -  low-warning
+
+fc1/2 sfp is present 
+    Name is CISCO-AVAGO     
+    Manufacturer's part number is SFBR-5780APZ-CS2
+    Revision is G2.3
+    Serial number is AGA150282RU     
+    Cisco part number is 10-2418-01
+    Cisco pid is DS-SFP-FC8G-SW      
+    FC Transmitter type is short wave laser w/o OFC (SN)
+    FC Transmitter supports short distance link length
+    Transmission medium is multimode laser with 62.5 um aperture (M6)
+    Supported speeds are - Min speed: 2000 Mb/s, Max speed: 8000 Mb/s
+    Nominal bit rate is 8500 Mb/s
+    Link length supported for 50/125um OM2 fiber is 50 m
+    Link length supported for 62.5/125um fiber is 21 m
+    Link length supported for 50/125um OM3 fiber is 150 m
+    Cisco extended id is unknown (0x0)
+
+    No tx fault, rx loss, no sync exists, diagnostic monitoring type is 0x68
+    SFP Diagnostics Information:
+----------------------------------------------------------------------------
+                                     Alarms                  Warnings
+                                High        Low         High          Low
+----------------------------------------------------------------------------
+  Temperature  21.27 C         75.00 C     -5.00 C     70.00 C        0.00 C
+  Voltage       3.29 V          3.63 V      2.97 V      3.46 V        3.13 V
+  Current       6.61 mA         8.50 mA     2.00 mA     8.50 mA       2.00 mA
+  Tx Power     -2.52 dBm        1.70 dBm  -14.00 dBm   -1.30 dBm    -10.00 dBm
+  Rx Power    -33.98 dBm --     3.00 dBm  -17.30 dBm    0.00 dBm    -13.30 dBm
+  Transmit Fault Count = 0
+----------------------------------------------------------------------------
+  Note: ++  high-alarm; +  high-warning; --  low-alarm; -  low-warning
+
+fc1/3 sfp is present 
+    Name is CISCO-AVAGO     
+    Manufacturer's part number is AFBR-57F5PZ-CS1 
+    Revision is B2  
+    Serial number is AVJ1947JZA0     
+    Cisco part number is 10-2666-01
+    Cisco pid is DS-SFP-FC16G-SW     
+    FC Transmitter type is short wave laser w/o OFC (SN)
+    FC Transmitter supports short distance link length
+    Transmission medium is multimode laser with 62.5 um aperture (M6)
+    Supported speeds are - Min speed: 4000 Mb/s, Max speed: 16000 Mb/s
+    Nominal bit rate is 14000 Mb/s
+    Link length supported for 50/125um OM2 fiber is 35 m
+    Link length supported for 62.5/125um fiber is 15 m
+    Link length supported for 50/125um OM3 fiber is 100 m
+    Cisco extended id is unknown (0x0)
+
+    No tx fault, no rx loss, in sync state, diagnostic monitoring type is 0x68
+    SFP Diagnostics Information:
+----------------------------------------------------------------------------
+                                     Alarms                  Warnings
+                                High        Low         High          Low
+----------------------------------------------------------------------------
+  Temperature  20.47 C         75.00 C     -5.00 C     70.00 C        0.00 C
+  Voltage       3.27 V          3.63 V      2.97 V      3.46 V        3.13 V
+  Current       7.34 mA        10.50 mA     2.50 mA    10.50 mA       2.50 mA
+  Tx Power     -2.23 dBm        1.70 dBm  -13.00 dBm   -1.30 dBm     -9.00 dBm
+  Rx Power     -3.16 dBm        3.00 dBm  -15.90 dBm    0.00 dBm    -11.90 dBm
+  Transmit Fault Count = 0
+----------------------------------------------------------------------------
+  Note: ++  high-alarm; +  high-warning; --  low-alarm; -  low-warning
+
+fc1/4 sfp not present
+fc1/5 sfp not present
+fc1/6 sfp not present
+fc1/7 sfp not present
+fc1/8 sfp not present
+fc1/9 sfp not present
+fc1/10 sfp not present
+fc1/11 sfp not present
+fc1/12 sfp not present
+fc1/13 sfp not present
+fc1/14 sfp not present
+fc1/15 sfp not present
+fc1/16 sfp not present
+fc1/17 sfp not present
+fc1/18 sfp not present
+fc1/19 sfp not present
+fc1/20 sfp not present
+fc1/21 sfp not present
+fc1/22 sfp not present
+fc1/23 sfp not present
+fc1/24 sfp not present
+fc1/25 sfp is present 
+    Name is CISCO-AVAGO     
+    Manufacturer's part number is SFBR-5780AMZ-CS2
+    Revision is G4.1
+    Serial number is AVD1944BAJ6     
+    Cisco part number is 10-2418-02
+    Cisco pid is DS-SFP-FC8G-SW      
+    FC Transmitter type is short wave laser w/o OFC (SN)
+    FC Transmitter supports short distance link length
+    Transmission medium is multimode laser with 62.5 um aperture (M6)
+    Supported speeds are - Min speed: 2000 Mb/s, Max speed: 8000 Mb/s
+    Nominal bit rate is 8500 Mb/s
+    Link length supported for 50/125um OM2 fiber is 50 m
+    Link length supported for 62.5/125um fiber is 21 m
+    Link length supported for 50/125um OM3 fiber is 150 m
+    Cisco extended id is unknown (0x0)
+
+    No tx fault, rx loss, no sync exists, diagnostic monitoring type is 0x68
+    SFP Diagnostics Information:
+----------------------------------------------------------------------------
+                                     Alarms                  Warnings
+                                High        Low         High          Low
+----------------------------------------------------------------------------
+  Temperature  19.46 C         75.00 C     -5.00 C     70.00 C        0.00 C
+  Voltage       3.29 V          3.63 V      2.97 V      3.46 V        3.13 V
+  Current       5.74 mA        10.50 mA     2.00 mA    10.50 mA       2.00 mA
+  Tx Power     -2.55 dBm        1.70 dBm  -14.00 dBm   -1.30 dBm    -10.00 dBm
+  Rx Power    -31.55 dBm --     3.00 dBm  -17.30 dBm    0.00 dBm    -13.30 dBm
+  Transmit Fault Count = 0
+----------------------------------------------------------------------------
+  Note: ++  high-alarm; +  high-warning; --  low-alarm; -  low-warning
+
+fc1/26 sfp not present
+fc1/27 sfp is present 
+    Name is CISCO-AVAGO     
+    Manufacturer's part number is SFBR-5780APZ-CS2
+    Revision is G2.3
+    Serial number is AGA150283TY     
+    Cisco part number is 10-2418-01
+    Cisco pid is DS-SFP-FC8G-SW      
+    FC Transmitter type is short wave laser w/o OFC (SN)
+    FC Transmitter supports short distance link length
+    Transmission medium is multimode laser with 62.5 um aperture (M6)
+    Supported speeds are - Min speed: 2000 Mb/s, Max speed: 8000 Mb/s
+    Nominal bit rate is 8500 Mb/s
+    Link length supported for 50/125um OM2 fiber is 50 m
+    Link length supported for 62.5/125um fiber is 21 m
+    Link length supported for 50/125um OM3 fiber is 150 m
+    Cisco extended id is unknown (0x0)
+
+    No tx fault, rx loss, no sync exists, diagnostic monitoring type is 0x68
+    SFP Diagnostics Information:
+----------------------------------------------------------------------------
+                                     Alarms                  Warnings
+                                High        Low         High          Low
+----------------------------------------------------------------------------
+  Temperature  20.77 C         75.00 C     -5.00 C     70.00 C        0.00 C
+  Voltage       3.30 V          3.63 V      2.97 V      3.46 V        3.13 V
+  Current       6.36 mA         8.50 mA     2.00 mA     8.50 mA       2.00 mA
+  Tx Power     -2.47 dBm        1.70 dBm  -14.00 dBm   -1.30 dBm    -10.00 dBm
+  Rx Power    -40.00 dBm --     3.00 dBm  -17.30 dBm    0.00 dBm    -13.30 dBm
+  Transmit Fault Count = 0
+----------------------------------------------------------------------------
+  Note: ++  high-alarm; +  high-warning; --  low-alarm; -  low-warning
+
+fc1/28 sfp not present
+fc1/29 sfp not present
+fc1/30 sfp not present
+fc1/31 sfp not present
+fc1/32 sfp not present
+fc1/33 sfp not present
+fc1/34 sfp not present
+fc1/35 sfp not present
+fc1/36 sfp not present
+fc1/37 sfp not present
+fc1/38 sfp not present
+fc1/39 sfp not present
+fc1/40 sfp not present
+fc1/41 sfp not present
+fc1/42 sfp not present
+fc1/43 sfp not present
+fc1/44 sfp not present
+fc1/45 sfp not present
+fc1/46 sfp not present
+fc1/47 sfp not present
+fc1/48 sfp not present
+sw-core1-9710#

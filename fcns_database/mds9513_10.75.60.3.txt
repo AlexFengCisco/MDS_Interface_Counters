@@ -1,0 +1,20 @@
+ show fcns database
+
+VSAN 10:
+--------------------------------------------------------------------------
+FCID        TYPE  PWWN                    (VENDOR)        FC4-TYPE:FEATURE
+--------------------------------------------------------------------------
+0x1e7637    N     20:06:00:a0:b8:50:33:6f (SymBios)       scsi-fcp:target 
+0x5a0000    N     20:06:00:a0:b8:50:33:70 (SymBios)       scsi-fcp:target 
+
+Total number of entries = 2
+
+VSAN 100:
+--------------------------------------------------------------------------
+FCID        TYPE  PWWN                    (VENDOR)        FC4-TYPE:FEATURE
+--------------------------------------------------------------------------
+0x037691    N     20:06:00:a0:b8:50:33:6f (SymBios)       scsi-fcp:target 
+0x407791    N     20:06:00:a0:b8:50:33:70 (SymBios)       scsi-fcp:target 
+
+Total number of entries = 2
+mds9513#
